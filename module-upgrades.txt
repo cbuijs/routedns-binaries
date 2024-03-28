@@ -1,0 +1,25 @@
+# Upgrades
+upgraded github.com/BurntSushi/toml v1.2.1 => v1.3.2
+upgraded github.com/google/pprof v0.0.0-20221219190121-3cb0bae90811 => v0.0.0-20240327155427-868f304927ed
+upgraded github.com/google/uuid v1.3.0 => v1.6.0
+upgraded github.com/heimdalr/dag v1.2.1 => v1.4.0
+upgraded github.com/miekg/dns v1.1.51 => v1.1.58
+upgraded github.com/onsi/ginkgo/v2 v2.9.5 => v2.17.1
+upgraded github.com/oschwald/maxminddb-golang v1.10.0 => v1.12.0
+upgraded github.com/pion/dtls/v2 v2.2.4 => v2.2.10
+upgraded github.com/pion/transport/v2 v2.0.0 => v2.2.4
+upgraded github.com/quic-go/qtls-go1-20 v0.3.3 => v0.4.1
+upgraded github.com/quic-go/quic-go v0.38.2 => v0.42.0
+upgraded github.com/redis/go-redis/v9 v9.0.4 => v9.5.1
+upgraded github.com/rogpeppe/go-internal v1.9.0 => v1.12.0
+upgraded github.com/sirupsen/logrus v1.9.0 => v1.9.3
+upgraded github.com/spf13/cobra v1.6.1 => v1.8.0
+upgraded github.com/stretchr/testify v1.8.1 => v1.8.4
+upgraded github.com/stretchr/testify v1.8.4 => v1.9.0
+upgraded github.com/txthinking/runnergroup v0.0.0-20210608031112-152c7c4432bf => v0.0.0-20230325130830-408dc5853f86
+upgraded golang.org/x/crypto v0.17.0 => v0.21.0
+upgraded golang.org/x/exp v0.0.0-20221227203929-1b447090c38c => v0.0.0-20240325151524-a685a6edb6d8
+upgraded golang.org/x/mod v0.10.0 => v0.16.0
+upgraded golang.org/x/net v0.17.0 => v0.22.0
+upgraded golang.org/x/sys v0.15.0 => v0.18.0
+upgraded golang.org/x/tools v0.9.1 => v0.19.0

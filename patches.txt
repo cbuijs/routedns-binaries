@@ -1,0 +1,13 @@
+go version go1.22.1
+
+Modifications:
+- Use TLS1.3 as default (from TLS1.2 and up)
+- Use "ReusePort: true" on dns-listener
+
+Patches:
+https://github.com/folbricht/routedns/tree/issue-94
+https://github.com/folbricht/routedns/tree/issue-348
+https://github.com/folbricht/routedns/tree/issue-355
+https://github.com/folbricht/routedns/tree/issue-366
+https://github.com/folbricht/routedns/tree/codeql-update-v2
+https://github.com/folbricht/routedns/tree/issue-368
