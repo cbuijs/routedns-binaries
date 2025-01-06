@@ -10,6 +10,6 @@ See `platforms.txt` for common platforms and which execytable to use.
 Compiled/Updated once a day from the "master" branch at https://github.com/folbricht/routedns.
 
 
-# DISCLAIMER
+# DISCLAIMER !!!
 Use at own risk! NO Guarantees! Binaries are build using the latest GO module versions and RouteDNS patches.
 
