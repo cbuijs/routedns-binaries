@@ -1,0 +1,22 @@
+# Upgrades
+upgraded github.com/BurntSushi/toml v1.3.2 => v1.4.0
+upgraded github.com/cisco/go-hpke v0.0.0-20210215210317-01c430f1f302 => v0.0.0-20230407100446-246075f83609
+upgraded github.com/cloudflare/circl v1.3.7 => v1.5.0
+upgraded github.com/google/pprof v0.0.0-20240507183855-6f11f98ebb1c => v0.0.0-20241210010833-40e02aabc2ad
+upgraded github.com/heimdalr/dag v1.4.0 => v1.5.0
+upgraded github.com/ianlancetaylor/demangle v0.0.0-20240312041847-bd984b5ce465 => v0.0.0-20240912202439-0a2b6291aafd
+upgraded github.com/miekg/dns v1.1.59 => v1.1.62
+upgraded github.com/onsi/ginkgo/v2 v2.17.3 => v2.22.2
+upgraded github.com/oschwald/maxminddb-golang v1.12.0 => v1.13.1
+upgraded github.com/pion/dtls/v2 v2.2.11 => v2.2.12
+upgraded github.com/pion/transport/v2 v2.2.5 => v2.2.10
+upgraded github.com/redis/go-redis/v9 v9.5.1 => v9.7.0
+upgraded github.com/spf13/cobra v1.8.0 => v1.8.1
+upgraded github.com/stretchr/testify v1.9.0 => v1.10.0
+upgraded github.com/txthinking/runnergroup v0.0.0-20230325130830-408dc5853f86 => v0.0.0-20241229123329-7b873ad00768
+upgraded golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842 => v0.0.0-20250103183323-7d7fa50e5329
+upgraded golang.org/x/mod v0.17.0 => v0.22.0
+upgraded golang.org/x/net v0.28.0 => v0.33.0
+upgraded golang.org/x/sys v0.28.0 => v0.29.0
+upgraded golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d => v0.28.0
+upgraded go.uber.org/mock v0.4.0 => v0.5.0

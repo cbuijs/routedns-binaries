@@ -1,0 +1,7 @@
+go version go1.23.4
+
+Modifications:
+- Use "ReusePort: true" on dns-listener
+
+Patches:
+-- None --
