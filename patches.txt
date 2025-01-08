@@ -4,5 +4,4 @@ Modifications:
 - Use "ReusePort: true" on dns-listener
 
 Patches:
-https://github.com/folbricht/routedns/tree/issue-94
-https://github.com/folbricht/routedns/tree/issue-355
+-- None --

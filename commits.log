@@ -1,4 +1,3 @@
-Wed Jan 8 11:52:17 2025 +0100 - af49a7b - Chris Buijs - Merge branches 'issue-94' and 'issue-355' of https://github.com/folbricht/routedns
 Wed Jan 1 12:22:26 2025 +0000 - 87da982 - github-actions - Automatic version bump from GitHub Action at: Wed Jan  1 12:22:26 UTC 2025 v0.1.88
 Wed Jan 1 21:22:17 2025 +0900 - f53b4f5 - Leonard Walter - Fixing problems with cloudflare/odoh-go  (#423)
 Tue Dec 24 00:47:08 2024 +0000 - 1680a70 - github-actions - Automatic version bump from GitHub Action at: Tue Dec 24 00:47:08 UTC 2024 v0.1.87
@@ -71,8 +70,6 @@ Tue Nov 14 10:19:57 2023 +0000 - 59df835 - github-actions - Automatic version bu
 Tue Nov 14 11:19:44 2023 +0100 - 2f999be - nickzhog - add SetWriteDeadline (#358)
 Mon Nov 13 07:45:30 2023 +0000 - a425fee - github-actions - Automatic version bump from GitHub Action at: Mon Nov 13 07:45:30 UTC 2023 v0.1.53
 Mon Nov 13 08:45:17 2023 +0100 - 8139fd4 - Frank Olbricht - Return multiple spoofed IPs from hosts-based blocklist (#354)
-Sun Nov 12 10:08:25 2023 +0100 - c64355d - folbrich - make ip-version optional
-Sat Nov 11 19:23:30 2023 +0100 - 6a8b0e4 - folbrich - New ip-version option for listeners
 Sat Nov 4 16:03:44 2023 +0000 - e5776a1 - github-actions - Automatic version bump from GitHub Action at: Sat Nov  4 16:03:44 UTC 2023 v0.1.52
 Sat Nov 4 17:03:34 2023 +0100 - 634bcf7 - Frank Olbricht - Support HTTPS, TXT, and SVCB in response-blocklist-name (#342)
 Sat Oct 21 08:11:03 2023 +0000 - e579eeb - github-actions - Automatic version bump from GitHub Action at: Sat Oct 21 08:11:03 UTC 2023 v0.1.51
@@ -94,7 +91,6 @@ Mon Sep 4 18:56:52 2023 +0200 - 0705aa1 - Frank Olbricht - Treat 'reset-after' t
 Mon Sep 4 15:58:32 2023 +0200 - 6526f46 - folbrich - Fix divide by zero in cache answer-shuffle
 Mon Sep 4 12:26:31 2023 +0000 - f44ee3d - github-actions - Automatic version bump from GitHub Action at: Mon Sep  4 12:26:31 UTC 2023 v0.1.43
 Mon Sep 4 14:26:18 2023 +0200 - 82c7a7a - Frank Olbricht - Fix Round-Robin rotation of cached records (#328)
-Sat Sep 2 11:00:51 2023 +0200 - a26b546 - folbrich - Implement GeoIP blocking based on ASN
 Thu Aug 31 06:42:18 2023 +0000 - f078b19 - github-actions - Automatic version bump from GitHub Action at: Thu Aug 31 06:42:17 UTC 2023 v0.1.42
 Thu Aug 31 08:42:02 2023 +0200 - 8b52ac2 - Frank Olbricht - Set ServerName for DoQ TLS validation explicitly (#329)
 Wed Aug 23 07:44:06 2023 +0000 - d718c4a - github-actions - Automatic version bump from GitHub Action at: Wed Aug 23 07:44:06 UTC 2023 v0.1.41
