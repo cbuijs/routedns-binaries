@@ -1,12 +1,4 @@
-Mon Jan 13 08:20:13 2025 +0100 - 2f1ee3e - Chris Buijs - Merge branches 'issue-94', 'issue-348', 'issue-355', 'issue-398' and 'issue-409' of https://github.com/folbricht/routedns
-Sat Jan 11 08:11:46 2025 +0000 - 7b08440 - github-actions - Automatic version bump from GitHub Action at: Sat Jan 11 08:11:46 UTC 2025 v0.1.89
-Sat Jan 11 09:11:37 2025 +0100 - 52ab30d - Frank Olbricht - Remove ODOH due to broken dependency (#425)
-Wed Jan 1 12:22:26 2025 +0000 - 87da982 - github-actions - Automatic version bump from GitHub Action at: Wed Jan  1 12:22:26 UTC 2025 v0.1.88
-Wed Jan 1 21:22:17 2025 +0900 - f53b4f5 - Leonard Walter - Fixing problems with cloudflare/odoh-go  (#423)
-Tue Dec 24 00:47:08 2024 +0000 - 1680a70 - github-actions - Automatic version bump from GitHub Action at: Tue Dec 24 00:47:08 UTC 2024 v0.1.87
-Tue Dec 24 09:46:57 2024 +0900 - 921e5f7 - dependabot[bot] - Bump github.com/cloudflare/circl from 1.0.0 to 1.3.7 (#420)
-Tue Dec 24 00:39:30 2024 +0000 - e6d21a5 - github-actions - Automatic version bump from GitHub Action at: Tue Dec 24 00:39:30 UTC 2024 v0.1.86
-Tue Dec 24 09:39:21 2024 +0900 - 983dca6 - Frank Olbricht - Support for Oblivious DNS client (#118)
+Mon Jan 13 09:43:14 2025 +0100 - 200d766 - Chris Buijs - Merge branches 'issue-94', 'issue-348', 'issue-355', 'issue-398' and 'issue-409' of https://github.com/folbricht/routedns into HEAD
 Thu Dec 12 01:13:07 2024 +0000 - a387679 - github-actions - Automatic version bump from GitHub Action at: Thu Dec 12 01:13:07 UTC 2024 v0.1.85
 Thu Dec 12 10:12:55 2024 +0900 - 1632c80 - dependabot[bot] - Bump golang.org/x/crypto from 0.26.0 to 0.31.0 (#417)
 Tue Dec 3 08:54:08 2024 +0000 - 376ca34 - github-actions - Automatic version bump from GitHub Action at: Tue Dec  3 08:54:08 UTC 2024 v0.1.84
