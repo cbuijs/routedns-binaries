@@ -1,4 +1,4 @@
-Mon Jan 13 09:43:14 2025 +0100 - 200d766 - Chris Buijs - Merge branches 'issue-94', 'issue-348', 'issue-355', 'issue-398' and 'issue-409' of https://github.com/folbricht/routedns into HEAD
+Mon Jan 13 23:30:26 2025 +0100 - 200d766 - Chris Buijs - Merge branches 'issue-94', 'issue-348', 'issue-355', 'issue-398' and 'issue-409' of https://github.com/folbricht/routedns into HEAD
 Thu Dec 12 01:13:07 2024 +0000 - a387679 - github-actions - Automatic version bump from GitHub Action at: Thu Dec 12 01:13:07 UTC 2024 v0.1.85
 Thu Dec 12 10:12:55 2024 +0900 - 1632c80 - dependabot[bot] - Bump golang.org/x/crypto from 0.26.0 to 0.31.0 (#417)
 Tue Dec 3 08:54:08 2024 +0000 - 376ca34 - github-actions - Automatic version bump from GitHub Action at: Tue Dec  3 08:54:08 UTC 2024 v0.1.84
