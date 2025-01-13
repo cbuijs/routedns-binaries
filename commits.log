@@ -1,3 +1,6 @@
+Mon Jan 13 07:52:19 2025 +0100 - 7b08440 - Chris Buijs - Merge branches 'issue-94', 'issue-348', 'issue-355', 'issue-398' and 'issue-409' of https://github.com/folbricht/routedns
+Sat Jan 11 08:11:46 2025 +0000 - 7b08440 - github-actions - Automatic version bump from GitHub Action at: Sat Jan 11 08:11:46 UTC 2025 v0.1.89
+Sat Jan 11 09:11:37 2025 +0100 - 52ab30d - Frank Olbricht - Remove ODOH due to broken dependency (#425)
 Wed Jan 1 12:22:26 2025 +0000 - 87da982 - github-actions - Automatic version bump from GitHub Action at: Wed Jan  1 12:22:26 UTC 2025 v0.1.88
 Wed Jan 1 21:22:17 2025 +0900 - f53b4f5 - Leonard Walter - Fixing problems with cloudflare/odoh-go  (#423)
 Tue Dec 24 00:47:08 2024 +0000 - 1680a70 - github-actions - Automatic version bump from GitHub Action at: Tue Dec 24 00:47:08 UTC 2024 v0.1.87
@@ -12,6 +15,9 @@ Tue Dec 3 08:53:25 2024 +0000 - 2903993 - github-actions - Automatic version bum
 Tue Dec 3 09:53:12 2024 +0100 - 41abc7c - Leonard Walter - Add support for 0rtt connection resumption to DoH and DoQ listeners.  (#414)
 Sat Nov 30 12:15:22 2024 +0000 - 0e91581 - github-actions - Automatic version bump from GitHub Action at: Sat Nov 30 12:15:22 UTC 2024 v0.1.82
 Sat Nov 30 13:15:11 2024 +0100 - aa01d6d - Frank Olbricht - Remove leftover debug code (#415)
+Sat Oct 5 12:33:33 2024 +0200 - cf1237a - folbrich - Support JSON output for query-log
+Sun Sep 29 13:20:56 2024 +0200 - 4c6cc9d - folbrich - use slog to produce logs
+Sun Sep 1 09:52:19 2024 +0200 - 66c0fc9 - folbrich - Implement 'query-log'
 Sat Aug 24 15:17:20 2024 +0000 - a72e5b8 - github-actions - Automatic version bump from GitHub Action at: Sat Aug 24 15:17:20 UTC 2024 v0.1.81
 Sat Aug 24 17:17:11 2024 +0200 - c9d1eab - Frank Olbricht - Clarify the use of 0-RTT with DoH (#408)
 Sun Aug 11 06:11:57 2024 +0000 - 16754db - github-actions - Automatic version bump from GitHub Action at: Sun Aug 11 06:11:57 UTC 2024 v0.1.80
@@ -22,6 +28,7 @@ Sat Aug 3 05:57:14 2024 +0000 - 543aaf0 - github-actions - Automatic version bum
 Sat Aug 3 07:57:03 2024 +0200 - 59a416c - Frank Olbricht - Upgrade quic-go to v0.45.1 (#399)
 Thu Jul 25 11:08:36 2024 +0000 - e89e626 - github-actions - Automatic version bump from GitHub Action at: Thu Jul 25 11:08:36 UTC 2024 v0.1.77
 Thu Jul 25 13:08:25 2024 +0200 - 5bf4e23 - Frank Olbricht - Update docs to explain usage of static-template EDE (#402)
+Sun Jul 7 12:32:10 2024 +0200 - 17f93ad - folbrich - Support blocking based on MAC-address
 Wed Jul 3 08:04:04 2024 +0000 - 80b6415 - github-actions - Automatic version bump from GitHub Action at: Wed Jul  3 08:04:04 UTC 2024 v0.1.76
 Wed Jul 3 10:03:50 2024 +0200 - 07bcacd - Frank Olbricht - Fix comment to use correct enable-0rtt not Use0RTT (#400)
 Sat Jun 22 12:05:31 2024 +0000 - 2185376 - github-actions - Automatic version bump from GitHub Action at: Sat Jun 22 12:05:31 UTC 2024 v0.1.75
@@ -70,8 +77,11 @@ Tue Nov 14 10:19:57 2023 +0000 - 59df835 - github-actions - Automatic version bu
 Tue Nov 14 11:19:44 2023 +0100 - 2f999be - nickzhog - add SetWriteDeadline (#358)
 Mon Nov 13 07:45:30 2023 +0000 - a425fee - github-actions - Automatic version bump from GitHub Action at: Mon Nov 13 07:45:30 UTC 2023 v0.1.53
 Mon Nov 13 08:45:17 2023 +0100 - 8139fd4 - Frank Olbricht - Return multiple spoofed IPs from hosts-based blocklist (#354)
+Sun Nov 12 10:08:25 2023 +0100 - c64355d - folbrich - make ip-version optional
+Sat Nov 11 19:23:30 2023 +0100 - 6a8b0e4 - folbrich - New ip-version option for listeners
 Sat Nov 4 16:03:44 2023 +0000 - e5776a1 - github-actions - Automatic version bump from GitHub Action at: Sat Nov  4 16:03:44 UTC 2023 v0.1.52
 Sat Nov 4 17:03:34 2023 +0100 - 634bcf7 - Frank Olbricht - Support HTTPS, TXT, and SVCB in response-blocklist-name (#342)
+Sat Oct 21 11:42:48 2023 +0200 - d043866 - folbrich - New use-ecs option in client-blocklist
 Sat Oct 21 08:11:03 2023 +0000 - e579eeb - github-actions - Automatic version bump from GitHub Action at: Sat Oct 21 08:11:03 UTC 2023 v0.1.51
 Sat Oct 21 10:10:51 2023 +0200 - 839eee1 - Frank Olbricht - Return all names for a PTR lookup in hosts blocklist (#331)
 Wed Oct 18 07:12:50 2023 +0000 - 2bc7b45 - github-actions - Automatic version bump from GitHub Action at: Wed Oct 18 07:12:50 UTC 2023 v0.1.50
@@ -91,6 +101,7 @@ Mon Sep 4 18:56:52 2023 +0200 - 0705aa1 - Frank Olbricht - Treat 'reset-after' t
 Mon Sep 4 15:58:32 2023 +0200 - 6526f46 - folbrich - Fix divide by zero in cache answer-shuffle
 Mon Sep 4 12:26:31 2023 +0000 - f44ee3d - github-actions - Automatic version bump from GitHub Action at: Mon Sep  4 12:26:31 UTC 2023 v0.1.43
 Mon Sep 4 14:26:18 2023 +0200 - 82c7a7a - Frank Olbricht - Fix Round-Robin rotation of cached records (#328)
+Sat Sep 2 11:00:51 2023 +0200 - a26b546 - folbrich - Implement GeoIP blocking based on ASN
 Thu Aug 31 06:42:18 2023 +0000 - f078b19 - github-actions - Automatic version bump from GitHub Action at: Thu Aug 31 06:42:17 UTC 2023 v0.1.42
 Thu Aug 31 08:42:02 2023 +0200 - 8b52ac2 - Frank Olbricht - Set ServerName for DoQ TLS validation explicitly (#329)
 Wed Aug 23 07:44:06 2023 +0000 - d718c4a - github-actions - Automatic version bump from GitHub Action at: Wed Aug 23 07:44:06 UTC 2023 v0.1.41
