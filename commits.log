@@ -1,4 +1,4 @@
-Mon Jan 13 07:52:19 2025 +0100 - 7b08440 - Chris Buijs - Merge branches 'issue-94', 'issue-348', 'issue-355', 'issue-398' and 'issue-409' of https://github.com/folbricht/routedns
+Mon Jan 13 08:20:13 2025 +0100 - 2f1ee3e - Chris Buijs - Merge branches 'issue-94', 'issue-348', 'issue-355', 'issue-398' and 'issue-409' of https://github.com/folbricht/routedns
 Sat Jan 11 08:11:46 2025 +0000 - 7b08440 - github-actions - Automatic version bump from GitHub Action at: Sat Jan 11 08:11:46 UTC 2025 v0.1.89
 Sat Jan 11 09:11:37 2025 +0100 - 52ab30d - Frank Olbricht - Remove ODOH due to broken dependency (#425)
 Wed Jan 1 12:22:26 2025 +0000 - 87da982 - github-actions - Automatic version bump from GitHub Action at: Wed Jan  1 12:22:26 UTC 2025 v0.1.88
