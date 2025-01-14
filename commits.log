@@ -1,4 +1,4 @@
-Tue Jan 14 08:05:52 2025 +0100 - 819c023 - Chris Buijs - Merge branch 'issue-94' of https://github.com/folbricht/routedns into HEAD
+Tue Jan 14 09:24:54 2025 +0100 - 819c023 - Chris Buijs - Merge branch 'issue-94' of https://github.com/folbricht/routedns into HEAD
 Tue Jan 14 06:25:37 2025 +0000 - fbbf4e9 - github-actions - Automatic version bump from GitHub Action at: Tue Jan 14 06:25:36 UTC 2025 v0.1.96
 Tue Jan 14 07:25:27 2025 +0100 - 99e7574 - Frank Olbricht - Update install instructions (#431)
 Tue Jan 14 07:12:19 2025 +0100 - bc1e71c - folbrich - update logger
