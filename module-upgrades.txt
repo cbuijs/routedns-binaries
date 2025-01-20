@@ -1,7 +1,7 @@
 # Upgrades
 upgraded github.com/BurntSushi/toml v1.3.2 => v1.4.0
 upgraded github.com/cloudflare/circl v1.3.7 => v1.5.0
-upgraded github.com/google/pprof v0.0.0-20240507183855-6f11f98ebb1c => v0.0.0-20241210010833-40e02aabc2ad
+upgraded github.com/google/pprof v0.0.0-20240507183855-6f11f98ebb1c => v0.0.0-20250120214715-4e5bb2051dab
 upgraded github.com/heimdalr/dag v1.4.0 => v1.5.0
 upgraded github.com/ianlancetaylor/demangle v0.0.0-20240312041847-bd984b5ce465 => v0.0.0-20240912202439-0a2b6291aafd
 upgraded github.com/miekg/dns v1.1.59 => v1.1.62
