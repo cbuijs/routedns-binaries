@@ -1,3 +1,5 @@
+Sat Feb 1 10:32:22 2025 +0000 - 30db15a - github-actions - Automatic version bump from GitHub Action at: Sat Feb  1 10:32:22 UTC 2025 v0.1.100
+Sat Feb 1 11:32:12 2025 +0100 - 3613372 - Leonard Walter - ODoH listener (#430)
 Sun Jan 19 16:55:53 2025 +0000 - 3ef58b8 - github-actions - Automatic version bump from GitHub Action at: Sun Jan 19 16:55:53 UTC 2025 v0.1.99
 Sun Jan 19 17:55:43 2025 +0100 - 66ba37d - Leonard Walter - fix broken DoT testcases to work woth updated call to  NewDoTListener (#432)
 Wed Jan 15 05:26:32 2025 +0000 - d24d2a6 - github-actions - Automatic version bump from GitHub Action at: Wed Jan 15 05:26:32 UTC 2025 v0.1.98
