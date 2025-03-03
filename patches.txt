@@ -7,4 +7,4 @@ RuteDNS version/tag: v0.1.103
 - Use "ReusePort: true" on dns-listener
 
 Patches:
--- None --
+https://github.com/folbricht/routedns/tree/issue-433-2
