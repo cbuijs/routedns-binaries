@@ -1,4 +1,6 @@
-Mon Mar 17 23:30:13 2025 +0100 - 343681a - Chris Buijs - Merge branch 'issue-433-2' of https://github.com/folbricht/routedns into HEAD
+Mon Mar 24 23:30:18 2025 +0100 - f481ec6 - Chris Buijs - Merge branch 'issue-433-2' of https://github.com/folbricht/routedns into HEAD
+Sun Mar 23 10:44:20 2025 +0000 - 1d11a67 - github-actions - Automatic version bump from GitHub Action at: Sun Mar 23 10:44:20 UTC 2025 v0.1.106
+Sun Mar 23 11:44:11 2025 +0100 - a03ef96 - dependabot[bot] - Bump github.com/redis/go-redis/v9 from 9.5.1 to 9.5.5 (#442)
 Thu Mar 13 08:01:00 2025 +0000 - 0b8d6a3 - github-actions - Automatic version bump from GitHub Action at: Thu Mar 13 08:01:00 UTC 2025 v0.1.105
 Thu Mar 13 09:00:51 2025 +0100 - 54b2e0a - Frank Olbricht - Require Go 1.23 (#440)
 Thu Mar 13 07:45:53 2025 +0000 - 02dd7a6 - github-actions - Automatic version bump from GitHub Action at: Thu Mar 13 07:45:53 UTC 2025 v0.1.104

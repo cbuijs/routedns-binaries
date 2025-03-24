@@ -2,7 +2,7 @@ go version go1.24.1
 
 Modifications:
 
-RuteDNS version/tag: v0.1.105
+RuteDNS version/tag: v0.1.106
 
 - Use "ReusePort: true" on dns-listener
 
