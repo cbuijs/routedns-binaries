@@ -1,4 +1,4 @@
-Tue Mar 25 08:27:02 2025 +0100 - e059c95 - Chris Buijs - Merge branches 'issue-433-2' and 'issue-441' of https://github.com/folbricht/routedns into HEAD
+Mon Mar 31 23:30:13 2025 +0200 - e059c95 - Chris Buijs - Merge branches 'issue-433-2' and 'issue-441' of https://github.com/folbricht/routedns into HEAD
 Sun Mar 23 12:11:57 2025 +0100 - 854b0c5 - folbrich - Match blocklist items regardless of case
 Sun Mar 23 10:44:20 2025 +0000 - 1d11a67 - github-actions - Automatic version bump from GitHub Action at: Sun Mar 23 10:44:20 UTC 2025 v0.1.106
 Sun Mar 23 11:44:11 2025 +0100 - a03ef96 - dependabot[bot] - Bump github.com/redis/go-redis/v9 from 9.5.1 to 9.5.5 (#442)
