@@ -1,8 +1,11 @@
-Mon Apr 7 23:30:15 2025 +0200 - e111e15 - Chris Buijs - Merge branches 'issue-433-2', 'issue-441' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Fri Apr 11 08:30:05 2025 +0200 - 9215921 - Chris Buijs - Merge branches 'issue-433-2' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Fri Apr 11 05:51:11 2025 +0000 - 0805821 - github-actions - Automatic version bump from GitHub Action at: Fri Apr 11 05:51:11 UTC 2025 v0.1.109
+Fri Apr 11 07:51:03 2025 +0200 - 059adc6 - Frank Olbricht - Match blocklist items regardless of case (#445)
+Thu Apr 10 07:21:36 2025 +0000 - e7fbe94 - github-actions - Automatic version bump from GitHub Action at: Thu Apr 10 07:21:36 UTC 2025 v0.1.108
+Thu Apr 10 09:21:28 2025 +0200 - 8c8daf4 - Frank Olbricht - Fix network-selection in DoT listener (#450)
 Tue Apr 1 07:01:54 2025 +0000 - a52f5f2 - github-actions - Automatic version bump from GitHub Action at: Tue Apr  1 07:01:54 UTC 2025 v0.1.107
 Tue Apr 1 09:01:43 2025 +0200 - 449a040 - Frank Olbricht - Update details on regex in router config (#449)
 Sun Mar 30 22:39:25 2025 +0200 - b5fa8f0 - folbrich - Use case-insensitive query names when caching
-Sun Mar 23 12:11:57 2025 +0100 - 854b0c5 - folbrich - Match blocklist items regardless of case
 Sun Mar 23 10:44:20 2025 +0000 - 1d11a67 - github-actions - Automatic version bump from GitHub Action at: Sun Mar 23 10:44:20 UTC 2025 v0.1.106
 Sun Mar 23 11:44:11 2025 +0100 - a03ef96 - dependabot[bot] - Bump github.com/redis/go-redis/v9 from 9.5.1 to 9.5.5 (#442)
 Thu Mar 13 08:01:00 2025 +0000 - 0b8d6a3 - github-actions - Automatic version bump from GitHub Action at: Thu Mar 13 08:01:00 UTC 2025 v0.1.105
