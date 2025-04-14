@@ -1,4 +1,6 @@
-Fri Apr 11 08:30:05 2025 +0200 - 9215921 - Chris Buijs - Merge branches 'issue-433-2' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Mon Apr 14 23:30:18 2025 +0200 - 5940182 - Chris Buijs - Merge branches 'issue-433-2' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Sun Apr 13 06:46:20 2025 +0000 - 0d1b219 - github-actions - Automatic version bump from GitHub Action at: Sun Apr 13 06:46:20 UTC 2025 v0.1.110
+Sun Apr 13 08:46:10 2025 +0200 - 03c16e8 - Frank Olbricht - More docs on regex support (#451)
 Fri Apr 11 05:51:11 2025 +0000 - 0805821 - github-actions - Automatic version bump from GitHub Action at: Fri Apr 11 05:51:11 UTC 2025 v0.1.109
 Fri Apr 11 07:51:03 2025 +0200 - 059adc6 - Frank Olbricht - Match blocklist items regardless of case (#445)
 Thu Apr 10 07:21:36 2025 +0000 - e7fbe94 - github-actions - Automatic version bump from GitHub Action at: Thu Apr 10 07:21:36 UTC 2025 v0.1.108
