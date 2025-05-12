@@ -1,4 +1,8 @@
-Mon Apr 14 23:30:18 2025 +0200 - 5940182 - Chris Buijs - Merge branches 'issue-433-2' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Mon May 12 23:30:13 2025 +0200 - e1fd134 - Chris Buijs - Merge branches 'issue-433-2' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Sun May 4 11:45:11 2025 +0000 - bdec369 - github-actions - Automatic version bump from GitHub Action at: Sun May  4 11:45:11 UTC 2025 v0.1.112
+Sun May 4 13:45:01 2025 +0200 - 30c0369 - Frank Olbricht - Failback immediately if `reset-after` is set to 0 and new flag to fail on empty responses (#448)
+Thu Apr 17 05:35:59 2025 +0000 - 4342bcb - github-actions - Automatic version bump from GitHub Action at: Thu Apr 17 05:35:59 UTC 2025 v0.1.111
+Thu Apr 17 07:35:50 2025 +0200 - 77ab154 - dependabot[bot] - Bump golang.org/x/net from 0.36.0 to 0.38.0 (#452)
 Sun Apr 13 06:46:20 2025 +0000 - 0d1b219 - github-actions - Automatic version bump from GitHub Action at: Sun Apr 13 06:46:20 UTC 2025 v0.1.110
 Sun Apr 13 08:46:10 2025 +0200 - 03c16e8 - Frank Olbricht - More docs on regex support (#451)
 Fri Apr 11 05:51:11 2025 +0000 - 0805821 - github-actions - Automatic version bump from GitHub Action at: Fri Apr 11 05:51:11 UTC 2025 v0.1.109
