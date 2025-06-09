@@ -1,4 +1,4 @@
-Mon Jun 2 23:30:16 2025 +0200 - e1fd134 - Chris Buijs - Merge branches 'issue-433-2' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Mon Jun 9 23:30:14 2025 +0200 - e1fd134 - Chris Buijs - Merge branches 'issue-433-2' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
 Sun May 4 11:45:11 2025 +0000 - bdec369 - github-actions - Automatic version bump from GitHub Action at: Sun May  4 11:45:11 UTC 2025 v0.1.112
 Sun May 4 13:45:01 2025 +0200 - 30c0369 - Frank Olbricht - Failback immediately if `reset-after` is set to 0 and new flag to fail on empty responses (#448)
 Thu Apr 17 05:35:59 2025 +0000 - 4342bcb - github-actions - Automatic version bump from GitHub Action at: Thu Apr 17 05:35:59 UTC 2025 v0.1.111
