@@ -1,4 +1,4 @@
-Fri Jun 20 12:14:19 2025 +0200 - 12e15c7 - Chris Buijs - Merge branch 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Mon Jun 23 23:30:13 2025 +0200 - 12e15c7 - Chris Buijs - Merge branch 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
 Fri Jun 13 10:34:10 2025 +0000 - b7090af - github-actions - Automatic version bump from GitHub Action at: Fri Jun 13 10:34:10 UTC 2025 v0.1.113
 Fri Jun 13 12:34:02 2025 +0200 - 45edd44 - Frank Olbricht - Adjust log-level of transient errors during querying (#436)
 Sun May 4 11:45:11 2025 +0000 - bdec369 - github-actions - Automatic version bump from GitHub Action at: Sun May  4 11:45:11 UTC 2025 v0.1.112
