@@ -2006,3 +2006,22 @@ Stripping and Copying ...
 cp: cannot stat 'routedns': No such file or directory
 cannot open `routedns' (No such file or directory)
 ls: cannot access '/opt/routedns-binaries/windows/amd64/routedns': No such file or directory
+[master c0d8baa] Update 20250630-233844-CEST
+ 30 files changed, 1758 insertions(+), 1585 deletions(-)
+ delete mode 100755 darwin/amd64/routedns
+ delete mode 100755 darwin/arm64/routedns
+ delete mode 100755 freebsd/amd64/routedns
+ delete mode 100755 freebsd/i386-sse2/routedns
+ delete mode 100755 linux/amd64/routedns
+ delete mode 100755 linux/arm32-v7/routedns
+ delete mode 100755 linux/arm64-v8/routedns
+ delete mode 100755 linux/i386-sse2/routedns
+ delete mode 100755 linux/mips/routedns
+ delete mode 100755 linux/mips64/routedns
+ delete mode 100755 linux/mips64le/routedns
+ delete mode 100755 linux/mipsle/routedns
+ delete mode 100755 windows/amd64/routedns.exe
+ delete mode 100644 windows/amd64/routedns.exe.info
+ create mode 100644 windows/amd64/routedns.info
+To https://github.com/cbuijs/routedns-binaries.git
+   59d6d31..c0d8baa  master -> master
