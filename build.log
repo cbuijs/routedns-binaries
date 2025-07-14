@@ -1778,3 +1778,7 @@ Stripping and Copying ...
 -- No Stripping ...
 PE32+ executable (console) x86-64, for MS Windows
 -rwxr-xr-x 1 root root 20444160 Jul  7 23:38 /opt/routedns-binaries/windows/amd64/routedns.exe
+[master 69f8209] Update 20250707-233841-CEST
+ 25 files changed, 1591 insertions(+), 1838 deletions(-)
+To https://github.com/cbuijs/routedns-binaries.git
+   a382511..69f8209  master -> master
