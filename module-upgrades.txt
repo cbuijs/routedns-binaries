@@ -1,6 +1,5 @@
 # Upgrades
 upgraded github.com/BurntSushi/toml v1.3.2 => v1.5.0
-upgraded github.com/cloudflare/circl v1.3.7 => v1.6.1
 upgraded github.com/heimdalr/dag v1.4.0 => v1.5.0
 upgraded github.com/miekg/dns v1.1.59 => v1.1.67
 upgraded github.com/oschwald/maxminddb-golang v1.12.0 => v1.13.1

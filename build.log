@@ -1849,3 +1849,34 @@ Build CGO_ENABLED=0 GOOS=linux GOARCH=amd64 ...
 no Go files in /opt/routedns-binaries
 RC: 1
 COMPILE ERROR - 1
+[master 328aaf9] Update 20250714-233111-CEST
+ 29 files changed, 1822 insertions(+), 2210 deletions(-)
+ rewrite commits.log (100%)
+ delete mode 100755 darwin/amd64/routedns
+ delete mode 100644 darwin/amd64/routedns.info
+ delete mode 100755 darwin/arm64/routedns
+ delete mode 100644 darwin/arm64/routedns.info
+ delete mode 100755 freebsd/amd64/routedns
+ delete mode 100644 freebsd/amd64/routedns.info
+ delete mode 100755 freebsd/i386-sse2/routedns
+ delete mode 100644 freebsd/i386-sse2/routedns.info
+ delete mode 100755 linux/amd64/routedns
+ delete mode 100644 linux/amd64/routedns.info
+ delete mode 100755 linux/arm32-v7/routedns
+ delete mode 100644 linux/arm32-v7/routedns.info
+ delete mode 100755 linux/arm64-v8/routedns
+ delete mode 100644 linux/arm64-v8/routedns.info
+ delete mode 100755 linux/i386-sse2/routedns
+ delete mode 100644 linux/i386-sse2/routedns.info
+ delete mode 100755 linux/mips/routedns
+ delete mode 100644 linux/mips/routedns.info
+ delete mode 100755 linux/mips64/routedns
+ delete mode 100644 linux/mips64/routedns.info
+ delete mode 100755 linux/mips64le/routedns
+ delete mode 100644 linux/mips64le/routedns.info
+ delete mode 100755 linux/mipsle/routedns
+ delete mode 100644 linux/mipsle/routedns.info
+ delete mode 100755 windows/amd64/routedns.exe
+ delete mode 100644 windows/amd64/routedns.exe.info
+fatal: Out of memory, malloc failed (tried to allocate 1572864000 bytes)
+error: failed to push some refs to 'https://github.com/cbuijs/routedns-binaries.git'
