@@ -1,7 +1,7 @@
 # Upgrades
 upgraded github.com/BurntSushi/toml v1.3.2 => v1.5.0
 upgraded github.com/heimdalr/dag v1.4.0 => v1.5.0
-upgraded github.com/miekg/dns v1.1.59 => v1.1.67
+upgraded github.com/miekg/dns v1.1.59 => v1.1.68
 upgraded github.com/oschwald/maxminddb-golang v1.12.0 => v1.13.1
 upgraded github.com/pion/dtls/v2 v2.2.11 => v2.2.12
 upgraded github.com/pion/logging v0.2.2 => v0.2.4
@@ -12,6 +12,7 @@ upgraded github.com/spf13/cobra v1.8.0 => v1.9.1
 upgraded github.com/spf13/pflag v1.0.5 => v1.0.7
 upgraded github.com/stretchr/testify v1.9.0 => v1.10.0
 upgraded github.com/txthinking/runnergroup v0.0.0-20230325130830-408dc5853f86 => v0.0.0-20250224021307-5864ffeb65ae
+upgraded github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301 => v0.0.0-20250803014457-d3594b14cf12
 upgraded golang.org/x/crypto v0.36.0 => v0.40.0
 upgraded golang.org/x/mod v0.18.0 => v0.26.0
 upgraded golang.org/x/net v0.38.0 => v0.42.0
