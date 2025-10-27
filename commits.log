@@ -1,4 +1,4 @@
-Mon Oct 20 23:30:13 2025 +0200 - 2c36fc9 - Chris Buijs - Merge branches 'issue-441-cache' and 'issue-463' of https://github.com/folbricht/routedns into HEAD
+Mon Oct 27 23:30:12 2025 +0100 - 2c36fc9 - Chris Buijs - Merge branches 'issue-441-cache' and 'issue-463' of https://github.com/folbricht/routedns into HEAD
 Mon Oct 20 09:25:59 2025 +0000 - 205f3b4 - github-actions - Automatic version bump from GitHub Action at: Mon Oct 20 09:25:59 UTC 2025 v0.1.118
 Mon Oct 20 11:25:47 2025 +0200 - 14d6734 - tekert - Add ECS source support to routing (#470) (#471)
 Sat Oct 11 06:17:56 2025 +0000 - fb96d61 - github-actions - Automatic version bump from GitHub Action at: Sat Oct 11 06:17:56 UTC 2025 v0.1.117
