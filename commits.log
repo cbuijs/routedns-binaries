@@ -1,4 +1,6 @@
-Mon Nov 17 23:30:12 2025 +0100 - 74a55f1 - Chris Buijs - Merge branch 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Thu Nov 20 14:31:09 2025 +0100 - dae3283 - Chris Buijs - Merge branch 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Thu Nov 20 07:37:00 2025 +0000 - 311a5e9 - github-actions - Automatic version bump from GitHub Action at: Thu Nov 20 07:37:00 UTC 2025 v0.1.120
+Thu Nov 20 08:36:52 2025 +0100 - b0003a2 - dependabot[bot] - Bump golang.org/x/crypto from 0.36.0 to 0.45.0 (#474)
 Sun Nov 9 12:18:36 2025 +0000 - d959583 - github-actions - Automatic version bump from GitHub Action at: Sun Nov  9 12:18:36 UTC 2025 v0.1.119
 Sun Nov 9 13:18:29 2025 +0100 - 8111a6c - Frank Olbricht - Implement prefetch group (#468)
 Mon Oct 20 09:25:59 2025 +0000 - 205f3b4 - github-actions - Automatic version bump from GitHub Action at: Mon Oct 20 09:25:59 UTC 2025 v0.1.118
