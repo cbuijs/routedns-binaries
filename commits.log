@@ -1,4 +1,4 @@
-Mon Dec 1 23:30:11 2025 +0100 - dc67c28 - Chris Buijs - Merge branch 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Mon Dec 8 23:30:13 2025 +0100 - dc67c28 - Chris Buijs - Merge branch 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
 Fri Nov 28 16:22:26 2025 +0000 - 9c035cb - github-actions - Automatic version bump from GitHub Action at: Fri Nov 28 16:22:26 UTC 2025 v0.1.123
 Fri Nov 28 17:22:19 2025 +0100 - f5ad52d - emlimap - Redis cache: use binary wire format with pooled buffers (#473)
 Wed Nov 26 10:01:34 2025 +0000 - e8e0e50 - github-actions - Automatic version bump from GitHub Action at: Wed Nov 26 10:01:34 UTC 2025 v0.1.122
