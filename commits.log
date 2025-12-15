@@ -1,4 +1,10 @@
-Mon Dec 8 23:30:13 2025 +0100 - dc67c28 - Chris Buijs - Merge branch 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Mon Dec 15 23:30:12 2025 +0100 - 6228c5d - Chris Buijs - Merge branch 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Mon Dec 15 11:21:49 2025 +0000 - ab8f511 - github-actions - Automatic version bump from GitHub Action at: Mon Dec 15 11:21:49 UTC 2025 v0.1.126
+Mon Dec 15 12:21:41 2025 +0100 - ee34923 - xnoreq - Change failover log level from debug to info (#480)
+Sun Dec 14 00:00:30 2025 +0000 - e967976 - github-actions - Automatic version bump from GitHub Action at: Sun Dec 14 00:00:30 UTC 2025 v0.1.125
+Sun Dec 14 01:00:22 2025 +0100 - bf142d3 - tekert - Add ECS Source Routing documentation to configuration guide (#476)
+Fri Dec 12 10:02:54 2025 +0000 - 8cc296d - github-actions - Automatic version bump from GitHub Action at: Fri Dec 12 10:02:54 UTC 2025 v0.1.124
+Fri Dec 12 11:02:46 2025 +0100 - 0f4eb61 - dependabot[bot] - Bump github.com/quic-go/quic-go from 0.56.0 to 0.57.0 (#477)
 Fri Nov 28 16:22:26 2025 +0000 - 9c035cb - github-actions - Automatic version bump from GitHub Action at: Fri Nov 28 16:22:26 UTC 2025 v0.1.123
 Fri Nov 28 17:22:19 2025 +0100 - f5ad52d - emlimap - Redis cache: use binary wire format with pooled buffers (#473)
 Wed Nov 26 10:01:34 2025 +0000 - e8e0e50 - github-actions - Automatic version bump from GitHub Action at: Wed Nov 26 10:01:34 UTC 2025 v0.1.122
