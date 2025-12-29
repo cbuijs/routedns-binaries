@@ -2,9 +2,9 @@ go version go1.25.5
 
 Modifications:
 
-RouteDNS version/tag: 
+RouteDNS version/tag: v0.1.128
 
 - Use "ReusePort: true" on dns-listener
 
 Patches:
--- None --
+https://github.com/folbricht/routedns/tree/issue-441-cache
