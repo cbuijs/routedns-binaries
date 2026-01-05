@@ -1,4 +1,4 @@
-Mon Dec 29 23:30:12 2025 +0100 - 48aa495 - Chris Buijs - Merge branch 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Mon Jan 5 23:30:12 2026 +0100 - 48aa495 - Chris Buijs - Merge branch 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
 Sat Dec 27 10:54:03 2025 +0000 - d13db94 - github-actions - Automatic version bump from GitHub Action at: Sat Dec 27 10:54:03 UTC 2025 v0.1.128
 Sat Dec 27 11:53:55 2025 +0100 - cffec4b - xnoreq - Avoid leaking pipeline conns (#482)
 Sat Dec 20 22:34:46 2025 +0000 - da8e967 - github-actions - Automatic version bump from GitHub Action at: Sat Dec 20 22:34:46 UTC 2025 v0.1.127
