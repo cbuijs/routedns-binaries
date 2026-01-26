@@ -1,7 +1,8 @@
 # Upgrades
-upgraded github.com/cloudflare/circl v1.6.1 => v1.6.2
-upgraded github.com/miekg/dns v1.1.69 => v1.1.70
+upgraded github.com/cloudflare/circl v1.6.1 => v1.6.3
+upgraded github.com/miekg/dns v1.1.69 => v1.1.72
 upgraded github.com/quic-go/quic-go v0.57.1 => v0.59.0
+upgraded github.com/redis/go-redis/v9 v9.17.2 => v9.17.3
 upgraded golang.org/x/crypto v0.46.0 => v0.47.0
 upgraded golang.org/x/mod v0.31.0 => v0.32.0
 upgraded golang.org/x/net v0.48.0 => v0.49.0
