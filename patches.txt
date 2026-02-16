@@ -1,0 +1,11 @@
+go version go1.26.0
+
+Modifications:
+
+RouteDNS version/tag: v0.1.136
+
+- Use "ReusePort: true" on dns-listener
+
+Patches:
+https://github.com/folbricht/routedns/tree/dnssec-validator
+https://github.com/folbricht/routedns/tree/issue-441-cache

@@ -1,0 +1,532 @@
+Mon Feb 16 23:30:13 2026 +0100 - 3810832 - Chris Buijs - Merge branches 'dnssec-validator' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Sat Feb 14 17:48:59 2026 +0100 - fa3ccb6 - folbrich - Documentation
+Sat Feb 14 17:11:04 2026 +0100 - a0cf246 - folbrich - simplify
+Sat Feb 14 16:59:02 2026 +0100 - bb7e276 - folbrich - Add KSK-2024
+Sat Feb 14 16:51:34 2026 +0100 - bcee7df - folbrich - more examples
+Sat Feb 14 16:44:22 2026 +0100 - e265a83 - folbrich - example config
+Sat Feb 14 16:42:49 2026 +0100 - 5ebb6af - folbrich - Implement DNSSEC validator
+Sat Feb 14 10:47:09 2026 +0000 - 59d547d - github-actions - Automatic version bump from GitHub Action at: Sat Feb 14 10:47:09 UTC 2026 v0.1.136
+Sat Feb 14 11:47:02 2026 +0100 - f8fb40b - Frank Olbricht - Remove dead ODoH proxy from test, examples, and docs (#490)
+Sat Feb 14 10:19:09 2026 +0000 - f628423 - github-actions - Automatic version bump from GitHub Action at: Sat Feb 14 10:19:09 UTC 2026 v0.1.135
+Sat Feb 14 11:19:02 2026 +0100 - 6500b67 - Frank Olbricht - Apply Go modernize fixes (#489)
+Sat Feb 14 08:52:50 2026 +0000 - d3e4ccb - github-actions - Automatic version bump from GitHub Action at: Sat Feb 14 08:52:50 UTC 2026 v0.1.134
+Sat Feb 14 09:52:42 2026 +0100 - 685ba07 - Frank Olbricht - Support for Lua scripting (#453)
+Sat Feb 7 12:06:58 2026 +0000 - ff9615c - github-actions - Automatic version bump from GitHub Action at: Sat Feb  7 12:06:58 UTC 2026 v0.1.133
+Sat Feb 7 13:06:50 2026 +0100 - 82dda01 - Frank Olbricht - Fix typos and grammar in docs (#488)
+Sat Feb 7 11:40:36 2026 +0000 - 8f8c317 - github-actions - Automatic version bump from GitHub Action at: Sat Feb  7 11:40:36 UTC 2026 v0.1.132
+Sat Feb 7 12:40:30 2026 +0100 - f91aa1b - Frank Olbricht - Add Claude.md (#487)
+Mon Jan 26 14:53:15 2026 +0000 - 38bd6dc - github-actions - Automatic version bump from GitHub Action at: Mon Jan 26 14:53:15 UTC 2026 v0.1.131
+Mon Jan 26 15:53:07 2026 +0100 - 0a6ef49 - emlimap - Fix IPv6 URL parsing adding duplicate brackets (#486)
+Sat Jan 17 13:20:12 2026 +0000 - 71fca0e - github-actions - Automatic version bump from GitHub Action at: Sat Jan 17 13:20:12 UTC 2026 v0.1.130
+Sat Jan 17 14:20:04 2026 +0100 - d7d5c06 - xnoreq - Improve prefetch (#483)
+Wed Jan 14 04:53:58 2026 +0000 - d56ed9b - github-actions - Automatic version bump from GitHub Action at: Wed Jan 14 04:53:58 UTC 2026 v0.1.129
+Wed Jan 14 05:53:51 2026 +0100 - 585a460 - emlimap - Add configurable idle-timeout for DoH connections (#484)
+Sat Dec 27 10:54:03 2025 +0000 - d13db94 - github-actions - Automatic version bump from GitHub Action at: Sat Dec 27 10:54:03 UTC 2025 v0.1.128
+Sat Dec 27 11:53:55 2025 +0100 - cffec4b - xnoreq - Avoid leaking pipeline conns (#482)
+Sat Dec 20 22:34:46 2025 +0000 - da8e967 - github-actions - Automatic version bump from GitHub Action at: Sat Dec 20 22:34:46 UTC 2025 v0.1.127
+Sat Dec 20 23:34:40 2025 +0100 - 0565cc9 - xnoreq - Chore/update deps (#481)
+Mon Dec 15 11:21:49 2025 +0000 - ab8f511 - github-actions - Automatic version bump from GitHub Action at: Mon Dec 15 11:21:49 UTC 2025 v0.1.126
+Mon Dec 15 12:21:41 2025 +0100 - ee34923 - xnoreq - Change failover log level from debug to info (#480)
+Sun Dec 14 00:00:30 2025 +0000 - e967976 - github-actions - Automatic version bump from GitHub Action at: Sun Dec 14 00:00:30 UTC 2025 v0.1.125
+Sun Dec 14 01:00:22 2025 +0100 - bf142d3 - tekert - Add ECS Source Routing documentation to configuration guide (#476)
+Fri Dec 12 10:02:54 2025 +0000 - 8cc296d - github-actions - Automatic version bump from GitHub Action at: Fri Dec 12 10:02:54 UTC 2025 v0.1.124
+Fri Dec 12 11:02:46 2025 +0100 - 0f4eb61 - dependabot[bot] - Bump github.com/quic-go/quic-go from 0.56.0 to 0.57.0 (#477)
+Fri Nov 28 16:22:26 2025 +0000 - 9c035cb - github-actions - Automatic version bump from GitHub Action at: Fri Nov 28 16:22:26 UTC 2025 v0.1.123
+Fri Nov 28 17:22:19 2025 +0100 - f5ad52d - emlimap - Redis cache: use binary wire format with pooled buffers (#473)
+Wed Nov 26 10:01:34 2025 +0000 - e8e0e50 - github-actions - Automatic version bump from GitHub Action at: Wed Nov 26 10:01:34 UTC 2025 v0.1.122
+Wed Nov 26 11:01:27 2025 +0100 - 1e7f6de - emlimap - Add async Redis SET on cache miss for reduced latency (#472)
+Thu Nov 20 14:57:46 2025 +0000 - 72960b3 - github-actions - Automatic version bump from GitHub Action at: Thu Nov 20 14:57:46 UTC 2025 v0.1.121
+Thu Nov 20 15:57:38 2025 +0100 - 2148588 - Frank Olbricht - Upgrade quic-go to v0.56.0 (#475)
+Thu Nov 20 07:37:00 2025 +0000 - 311a5e9 - github-actions - Automatic version bump from GitHub Action at: Thu Nov 20 07:37:00 UTC 2025 v0.1.120
+Thu Nov 20 08:36:52 2025 +0100 - b0003a2 - dependabot[bot] - Bump golang.org/x/crypto from 0.36.0 to 0.45.0 (#474)
+Sun Nov 9 12:18:36 2025 +0000 - d959583 - github-actions - Automatic version bump from GitHub Action at: Sun Nov  9 12:18:36 UTC 2025 v0.1.119
+Sun Nov 9 13:18:29 2025 +0100 - 8111a6c - Frank Olbricht - Implement prefetch group (#468)
+Mon Oct 20 09:25:59 2025 +0000 - 205f3b4 - github-actions - Automatic version bump from GitHub Action at: Mon Oct 20 09:25:59 UTC 2025 v0.1.118
+Mon Oct 20 11:25:47 2025 +0200 - 14d6734 - tekert - Add ECS source support to routing (#470) (#471)
+Sat Oct 11 06:17:56 2025 +0000 - fb96d61 - github-actions - Automatic version bump from GitHub Action at: Sat Oct 11 06:17:56 UTC 2025 v0.1.117
+Sat Oct 11 08:17:48 2025 +0200 - af63e0a - dependabot[bot] - Bump github.com/quic-go/quic-go from 0.53.0 to 0.54.1 (#469)
+Fri Aug 29 05:51:58 2025 +0000 - 998ec15 - github-actions - Automatic version bump from GitHub Action at: Fri Aug 29 05:51:58 UTC 2025 v0.1.116
+Fri Aug 29 07:51:50 2025 +0200 - 8edfd4d - Frank Olbricht - Remove debug print statements (#467)
+Wed Jul 16 12:17:39 2025 +0000 - b19dc03 - github-actions - Automatic version bump from GitHub Action at: Wed Jul 16 12:17:39 UTC 2025 v0.1.115
+Wed Jul 16 05:17:32 2025 -0700 - 0f85aaf - dependabot[bot] - Bump github.com/cloudflare/circl from 1.3.7 to 1.6.1 (#455)
+Wed Jul 16 12:08:53 2025 +0000 - 922a351 - github-actions - Automatic version bump from GitHub Action at: Wed Jul 16 12:08:53 UTC 2025 v0.1.114
+Wed Jul 16 05:08:46 2025 -0700 - 19f87e1 - Frank Olbricht - Update quic-go to v0.53.0 (#457)
+Fri Jun 13 10:34:10 2025 +0000 - b7090af - github-actions - Automatic version bump from GitHub Action at: Fri Jun 13 10:34:10 UTC 2025 v0.1.113
+Fri Jun 13 12:34:02 2025 +0200 - 45edd44 - Frank Olbricht - Adjust log-level of transient errors during querying (#436)
+Sun May 4 11:45:11 2025 +0000 - bdec369 - github-actions - Automatic version bump from GitHub Action at: Sun May  4 11:45:11 UTC 2025 v0.1.112
+Sun May 4 13:45:01 2025 +0200 - 30c0369 - Frank Olbricht - Failback immediately if `reset-after` is set to 0 and new flag to fail on empty responses (#448)
+Thu Apr 17 05:35:59 2025 +0000 - 4342bcb - github-actions - Automatic version bump from GitHub Action at: Thu Apr 17 05:35:59 UTC 2025 v0.1.111
+Thu Apr 17 07:35:50 2025 +0200 - 77ab154 - dependabot[bot] - Bump golang.org/x/net from 0.36.0 to 0.38.0 (#452)
+Sun Apr 13 06:46:20 2025 +0000 - 0d1b219 - github-actions - Automatic version bump from GitHub Action at: Sun Apr 13 06:46:20 UTC 2025 v0.1.110
+Sun Apr 13 08:46:10 2025 +0200 - 03c16e8 - Frank Olbricht - More docs on regex support (#451)
+Fri Apr 11 05:51:11 2025 +0000 - 0805821 - github-actions - Automatic version bump from GitHub Action at: Fri Apr 11 05:51:11 UTC 2025 v0.1.109
+Fri Apr 11 07:51:03 2025 +0200 - 059adc6 - Frank Olbricht - Match blocklist items regardless of case (#445)
+Thu Apr 10 07:21:36 2025 +0000 - e7fbe94 - github-actions - Automatic version bump from GitHub Action at: Thu Apr 10 07:21:36 UTC 2025 v0.1.108
+Thu Apr 10 09:21:28 2025 +0200 - 8c8daf4 - Frank Olbricht - Fix network-selection in DoT listener (#450)
+Tue Apr 1 07:01:54 2025 +0000 - a52f5f2 - github-actions - Automatic version bump from GitHub Action at: Tue Apr  1 07:01:54 UTC 2025 v0.1.107
+Tue Apr 1 09:01:43 2025 +0200 - 449a040 - Frank Olbricht - Update details on regex in router config (#449)
+Sun Mar 30 22:39:25 2025 +0200 - b5fa8f0 - folbrich - Use case-insensitive query names when caching
+Sun Mar 23 10:44:20 2025 +0000 - 1d11a67 - github-actions - Automatic version bump from GitHub Action at: Sun Mar 23 10:44:20 UTC 2025 v0.1.106
+Sun Mar 23 11:44:11 2025 +0100 - a03ef96 - dependabot[bot] - Bump github.com/redis/go-redis/v9 from 9.5.1 to 9.5.5 (#442)
+Thu Mar 13 08:01:00 2025 +0000 - 0b8d6a3 - github-actions - Automatic version bump from GitHub Action at: Thu Mar 13 08:01:00 UTC 2025 v0.1.105
+Thu Mar 13 09:00:51 2025 +0100 - 54b2e0a - Frank Olbricht - Require Go 1.23 (#440)
+Thu Mar 13 07:45:53 2025 +0000 - 02dd7a6 - github-actions - Automatic version bump from GitHub Action at: Thu Mar 13 07:45:53 UTC 2025 v0.1.104
+Thu Mar 13 08:45:45 2025 +0100 - 26a8fdb - dependabot[bot] - Bump golang.org/x/net from 0.35.0 to 0.36.0 (#439)
+Sun Feb 16 12:51:20 2025 +0000 - c3db342 - github-actions - Automatic version bump from GitHub Action at: Sun Feb 16 12:51:20 UTC 2025 v0.1.103
+Sun Feb 16 13:51:09 2025 +0100 - a81be0d - Frank Olbricht - Update golang.org/x/net (#438)
+Sun Feb 16 12:36:39 2025 +0000 - 0d09e4c - github-actions - Automatic version bump from GitHub Action at: Sun Feb 16 12:36:39 UTC 2025 v0.1.102
+Sun Feb 16 13:36:28 2025 +0100 - a776557 - Frank Olbricht - Tweak more log levels (#437)
+Sun Feb 9 13:20:28 2025 +0000 - 17fd8ac - github-actions - Automatic version bump from GitHub Action at: Sun Feb  9 13:20:28 UTC 2025 v0.1.101
+Sun Feb 9 14:20:18 2025 +0100 - 7063aed - Frank Olbricht - Re-align log-levels with logrus (#435)
+Sat Feb 1 10:32:22 2025 +0000 - 30db15a - github-actions - Automatic version bump from GitHub Action at: Sat Feb  1 10:32:22 UTC 2025 v0.1.100
+Sat Feb 1 11:32:12 2025 +0100 - 3613372 - Leonard Walter - ODoH listener (#430)
+Sun Jan 19 16:55:53 2025 +0000 - 3ef58b8 - github-actions - Automatic version bump from GitHub Action at: Sun Jan 19 16:55:53 UTC 2025 v0.1.99
+Sun Jan 19 17:55:43 2025 +0100 - 66ba37d - Leonard Walter - fix broken DoT testcases to work woth updated call to  NewDoTListener (#432)
+Wed Jan 15 05:26:32 2025 +0000 - d24d2a6 - github-actions - Automatic version bump from GitHub Action at: Wed Jan 15 05:26:32 UTC 2025 v0.1.98
+Wed Jan 15 06:26:23 2025 +0100 - 20c390b - Leonard Walter - Bunch of DoH fixes bundled together (#419)
+Wed Jan 15 05:22:52 2025 +0000 - 3fa485d - github-actions - Automatic version bump from GitHub Action at: Wed Jan 15 05:22:52 UTC 2025 v0.1.97
+Wed Jan 15 06:22:43 2025 +0100 - 819c023 - Frank Olbricht - Implement GeoIP blocking based on ASN (#330)
+Tue Jan 14 06:25:37 2025 +0000 - fbbf4e9 - github-actions - Automatic version bump from GitHub Action at: Tue Jan 14 06:25:36 UTC 2025 v0.1.96
+Tue Jan 14 07:25:27 2025 +0100 - 99e7574 - Frank Olbricht - Update install instructions (#431)
+Tue Jan 14 06:07:04 2025 +0000 - a66a216 - github-actions - Automatic version bump from GitHub Action at: Tue Jan 14 06:07:04 UTC 2025 v0.1.95
+Tue Jan 14 07:06:54 2025 +0100 - 7edbacc - Frank Olbricht - New ip-version option for listeners (#356)
+Tue Jan 14 06:06:22 2025 +0000 - 21f90d0 - github-actions - Automatic version bump from GitHub Action at: Tue Jan 14 06:06:22 UTC 2025 v0.1.94
+Tue Jan 14 07:06:13 2025 +0100 - c0c0575 - Frank Olbricht - Support blocking based on MAC-address (#401)
+Tue Jan 14 05:56:22 2025 +0000 - 6b2e1dd - github-actions - Automatic version bump from GitHub Action at: Tue Jan 14 05:56:22 UTC 2025 v0.1.93
+Tue Jan 14 06:56:12 2025 +0100 - f2fd623 - Frank Olbricht - New use-ecs option in client-blocklist (#351)
+Tue Jan 14 05:47:02 2025 +0000 - 80ea23f - github-actions - Automatic version bump from GitHub Action at: Tue Jan 14 05:47:02 UTC 2025 v0.1.92
+Tue Jan 14 06:46:54 2025 +0100 - d8a4f89 - Frank Olbricht - Implement 'query-log' (#410)
+Mon Jan 13 07:43:39 2025 +0000 - 0f9d62d - github-actions - Automatic version bump from GitHub Action at: Mon Jan 13 07:43:39 UTC 2025 v0.1.91
+Mon Jan 13 08:43:30 2025 +0100 - ef72294 - Ali - move from logrus to slog (#422)
+Mon Jan 13 07:39:45 2025 +0000 - c584f40 - github-actions - Automatic version bump from GitHub Action at: Mon Jan 13 07:39:45 UTC 2025 v0.1.90
+Mon Jan 13 08:39:34 2025 +0100 - f2b2c5e - Frank Olbricht - Re-add support for Oblivious DNS (#426)
+Sat Jan 11 08:11:46 2025 +0000 - 7b08440 - github-actions - Automatic version bump from GitHub Action at: Sat Jan 11 08:11:46 UTC 2025 v0.1.89
+Sat Jan 11 09:11:37 2025 +0100 - 52ab30d - Frank Olbricht - Remove ODOH due to broken dependency (#425)
+Wed Jan 1 12:22:26 2025 +0000 - 87da982 - github-actions - Automatic version bump from GitHub Action at: Wed Jan  1 12:22:26 UTC 2025 v0.1.88
+Wed Jan 1 21:22:17 2025 +0900 - f53b4f5 - Leonard Walter - Fixing problems with cloudflare/odoh-go  (#423)
+Tue Dec 24 00:47:08 2024 +0000 - 1680a70 - github-actions - Automatic version bump from GitHub Action at: Tue Dec 24 00:47:08 UTC 2024 v0.1.87
+Tue Dec 24 09:46:57 2024 +0900 - 921e5f7 - dependabot[bot] - Bump github.com/cloudflare/circl from 1.0.0 to 1.3.7 (#420)
+Tue Dec 24 00:39:30 2024 +0000 - e6d21a5 - github-actions - Automatic version bump from GitHub Action at: Tue Dec 24 00:39:30 UTC 2024 v0.1.86
+Tue Dec 24 09:39:21 2024 +0900 - 983dca6 - Frank Olbricht - Support for Oblivious DNS client (#118)
+Thu Dec 12 01:13:07 2024 +0000 - a387679 - github-actions - Automatic version bump from GitHub Action at: Thu Dec 12 01:13:07 UTC 2024 v0.1.85
+Thu Dec 12 10:12:55 2024 +0900 - 1632c80 - dependabot[bot] - Bump golang.org/x/crypto from 0.26.0 to 0.31.0 (#417)
+Tue Dec 3 08:54:08 2024 +0000 - 376ca34 - github-actions - Automatic version bump from GitHub Action at: Tue Dec  3 08:54:08 UTC 2024 v0.1.84
+Tue Dec 3 09:53:57 2024 +0100 - 5e6427a - dependabot[bot] - Bump github.com/quic-go/quic-go from 0.45.1 to 0.48.2 (#416)
+Tue Dec 3 08:53:25 2024 +0000 - 2903993 - github-actions - Automatic version bump from GitHub Action at: Tue Dec  3 08:53:25 UTC 2024 v0.1.83
+Tue Dec 3 09:53:12 2024 +0100 - 41abc7c - Leonard Walter - Add support for 0rtt connection resumption to DoH and DoQ listeners.  (#414)
+Sat Nov 30 12:15:22 2024 +0000 - 0e91581 - github-actions - Automatic version bump from GitHub Action at: Sat Nov 30 12:15:22 UTC 2024 v0.1.82
+Sat Nov 30 13:15:11 2024 +0100 - aa01d6d - Frank Olbricht - Remove leftover debug code (#415)
+Sat Aug 24 15:17:20 2024 +0000 - a72e5b8 - github-actions - Automatic version bump from GitHub Action at: Sat Aug 24 15:17:20 UTC 2024 v0.1.81
+Sat Aug 24 17:17:11 2024 +0200 - c9d1eab - Frank Olbricht - Clarify the use of 0-RTT with DoH (#408)
+Sun Aug 11 06:11:57 2024 +0000 - 16754db - github-actions - Automatic version bump from GitHub Action at: Sun Aug 11 06:11:57 UTC 2024 v0.1.80
+Sun Aug 11 08:11:46 2024 +0200 - bff4f18 - Frank Olbricht - Set RecursionAvailable in static responses (#404)
+Sun Aug 11 06:06:23 2024 +0000 - 7b6ca2c - github-actions - Automatic version bump from GitHub Action at: Sun Aug 11 06:06:23 UTC 2024 v0.1.79
+Sun Aug 11 08:06:13 2024 +0200 - ea5ac91 - Frank Olbricht - Give EDNS0-EDE templates access to blocklist matches (#403)
+Sat Aug 3 05:57:14 2024 +0000 - 543aaf0 - github-actions - Automatic version bump from GitHub Action at: Sat Aug  3 05:57:14 UTC 2024 v0.1.78
+Sat Aug 3 07:57:03 2024 +0200 - 59a416c - Frank Olbricht - Upgrade quic-go to v0.45.1 (#399)
+Thu Jul 25 11:08:36 2024 +0000 - e89e626 - github-actions - Automatic version bump from GitHub Action at: Thu Jul 25 11:08:36 UTC 2024 v0.1.77
+Thu Jul 25 13:08:25 2024 +0200 - 5bf4e23 - Frank Olbricht - Update docs to explain usage of static-template EDE (#402)
+Wed Jul 3 08:04:04 2024 +0000 - 80b6415 - github-actions - Automatic version bump from GitHub Action at: Wed Jul  3 08:04:04 UTC 2024 v0.1.76
+Wed Jul 3 10:03:50 2024 +0200 - 07bcacd - Frank Olbricht - Fix comment to use correct enable-0rtt not Use0RTT (#400)
+Sat Jun 22 12:05:31 2024 +0000 - 2185376 - github-actions - Automatic version bump from GitHub Action at: Sat Jun 22 12:05:31 UTC 2024 v0.1.75
+Sat Jun 22 14:05:22 2024 +0200 - 9bea817 - Frank Olbricht - New static-template group (#378)
+Sat Jun 22 12:03:36 2024 +0000 - e19ed3a - github-actions - Automatic version bump from GitHub Action at: Sat Jun 22 12:03:36 UTC 2024 v0.1.74
+Sat Jun 22 14:03:25 2024 +0200 - 122d4e7 - Frank Olbricht - New ECS modifier option 'add-if-missing' (#389)
+Sat Jun 1 16:35:06 2024 +0000 - 1200f7e - github-actions - Automatic version bump from GitHub Action at: Sat Jun  1 16:35:06 UTC 2024 v0.1.73
+Sat Jun 1 18:34:56 2024 +0200 - b167956 - Frank Olbricht - Document how to use export Prometheus metrics (#386)
+Tue May 21 09:21:30 2024 +0000 - 6b033d2 - github-actions - Automatic version bump from GitHub Action at: Tue May 21 09:21:30 UTC 2024 v0.1.72
+Tue May 21 11:21:20 2024 +0200 - 45e90f2 - Matt Keenan - goreleaser: initial goreleaser config (#394)
+Fri May 10 08:11:25 2024 +0000 - 59cc850 - github-actions - Automatic version bump from GitHub Action at: Fri May 10 08:11:25 UTC 2024 v0.1.71
+Fri May 10 10:11:13 2024 +0200 - 4e466ac - Frank Olbricht - Push version tags (#391)
+Thu May 9 05:54:09 2024 +0000 - 6838484 - github-actions - Automatic version bump from GitHub Action at: Thu May  9 05:54:09 UTC 2024 v0.1.70
+Thu May 9 07:53:58 2024 +0200 - 5f73806 - Leonard Walter - Enabling 0-RTT for QUIC/H3 clients (#387)
+Tue May 7 20:55:27 2024 +0000 - 404c594 - github-actions - Automatic version bump from GitHub Action at: Tue May  7 20:55:27 UTC 2024 v0.1.69
+Tue May 7 22:55:16 2024 +0200 - 0a7dc9b - xDragonZ - Update dependencies (#388)
+Sat May 4 07:10:17 2024 +0000 - 8a24d33 - github-actions - Automatic version bump from GitHub Action at: Sat May  4 07:10:17 UTC 2024 v0.1.68
+Sat May 4 09:10:06 2024 +0200 - ec62a74 - xDragonZ - Update dependencies & quic-go to v0.43.0 (#384)
+Tue Apr 23 07:21:31 2024 +0000 - c2e07a4 - github-actions - Automatic version bump from GitHub Action at: Tue Apr 23 07:21:31 UTC 2024 v0.1.67
+Tue Apr 23 09:21:18 2024 +0200 - fe3d215 - Charles Porth - go.mod versions bump (#380)
+Sun Apr 21 09:53:32 2024 +0000 - a6a1ab9 - github-actions - Automatic version bump from GitHub Action at: Sun Apr 21 09:53:32 UTC 2024 v0.1.66
+Sun Apr 21 11:53:20 2024 +0200 - 9b8ea23 - Frank Olbricht - Add support for extended error codes in blocklist-v2 (#373)
+Fri Apr 19 12:28:23 2024 +0000 - f59aaa7 - github-actions - Automatic version bump from GitHub Action at: Fri Apr 19 12:28:23 UTC 2024 v0.1.65
+Fri Apr 19 14:28:11 2024 +0200 - 116dd6b - dependabot[bot] - Bump golang.org/x/net from 0.17.0 to 0.23.0 (#376)
+Tue Apr 2 14:29:35 2024 +0000 - 2603603 - github-actions - Automatic version bump from GitHub Action at: Tue Apr  2 14:29:35 UTC 2024 v0.1.64
+Tue Apr 2 16:29:23 2024 +0200 - 7706ae7 - dependabot[bot] - Bump github.com/quic-go/quic-go from 0.38.2 to 0.42.0 (#374)
+Tue Apr 2 14:24:15 2024 +0000 - 818e09d - github-actions - Automatic version bump from GitHub Action at: Tue Apr  2 14:24:15 UTC 2024 v0.1.63
+Tue Apr 2 16:24:01 2024 +0200 - aeb8912 - Frank Olbricht - Update CodeQL Actions to v2 (#371)
+Sat Mar 23 09:04:47 2024 +0000 - 495a67f - github-actions - Automatic version bump from GitHub Action at: Sat Mar 23 09:04:47 UTC 2024 v0.1.62
+Sat Mar 23 10:04:38 2024 +0100 - a461620 - Frank Olbricht - Fix test (#372)
+Sat Mar 23 08:20:24 2024 +0000 - 5c75279 - github-actions - Automatic version bump from GitHub Action at: Sat Mar 23 08:20:24 UTC 2024 v0.1.61
+Sat Mar 23 09:20:13 2024 +0100 - 419a663 - Dmitry Mikhirev - switch to go 1.22 (#369)
+Sat Mar 23 08:17:26 2024 +0000 - 4d61e8e - github-actions - Automatic version bump from GitHub Action at: Sat Mar 23 08:17:26 UTC 2024 v0.1.60
+Sat Mar 23 09:17:17 2024 +0100 - 4fb64fa - Frank Olbricht - Fix captured range variable (#370)
+Wed Jan 10 15:11:34 2024 +0000 - bb5bdf3 - github-actions - Automatic version bump from GitHub Action at: Wed Jan 10 15:11:34 UTC 2024 v0.1.59
+Wed Jan 10 16:11:23 2024 +0100 - 55ad63e - dependabot[bot] - Bump github.com/quic-go/quic-go from 0.38.1 to 0.38.2 (#364)
+Tue Dec 19 03:10:41 2023 +0000 - a394cb4 - github-actions - Automatic version bump from GitHub Action at: Tue Dec 19 03:10:41 UTC 2023 v0.1.58
+Tue Dec 19 12:10:29 2023 +0900 - de62bf3 - dependabot[bot] - Bump golang.org/x/crypto from 0.14.0 to 0.17.0 (#363)
+Sat Nov 25 10:48:14 2023 +0000 - 6fcb1fc - github-actions - Automatic version bump from GitHub Action at: Sat Nov 25 10:48:14 UTC 2023 v0.1.57
+Sat Nov 25 11:48:03 2023 +0100 - 38948c3 - Frank Olbricht - Consider the value of SOA in response blocklists (#361)
+Sat Nov 18 09:02:12 2023 +0000 - fe073fc - github-actions - Automatic version bump from GitHub Action at: Sat Nov 18 09:02:12 UTC 2023 v0.1.56
+Sat Nov 18 10:01:48 2023 +0100 - 25a3cee - Frank Olbricht - Support Extended Error Codes in static-responder (#347)
+Sat Nov 18 09:00:23 2023 +0000 - e9bf491 - github-actions - Automatic version bump from GitHub Action at: Sat Nov 18 09:00:23 UTC 2023 v0.1.55
+Sat Nov 18 10:00:13 2023 +0100 - 101bb94 - Frank Olbricht - Retry failed quic connections once, regardless of error type (#350)
+Tue Nov 14 10:19:57 2023 +0000 - 59df835 - github-actions - Automatic version bump from GitHub Action at: Tue Nov 14 10:19:57 UTC 2023 v0.1.54
+Tue Nov 14 11:19:44 2023 +0100 - 2f999be - nickzhog - add SetWriteDeadline (#358)
+Mon Nov 13 07:45:30 2023 +0000 - a425fee - github-actions - Automatic version bump from GitHub Action at: Mon Nov 13 07:45:30 UTC 2023 v0.1.53
+Mon Nov 13 08:45:17 2023 +0100 - 8139fd4 - Frank Olbricht - Return multiple spoofed IPs from hosts-based blocklist (#354)
+Sat Nov 4 16:03:44 2023 +0000 - e5776a1 - github-actions - Automatic version bump from GitHub Action at: Sat Nov  4 16:03:44 UTC 2023 v0.1.52
+Sat Nov 4 17:03:34 2023 +0100 - 634bcf7 - Frank Olbricht - Support HTTPS, TXT, and SVCB in response-blocklist-name (#342)
+Sat Oct 21 08:11:03 2023 +0000 - e579eeb - github-actions - Automatic version bump from GitHub Action at: Sat Oct 21 08:11:03 UTC 2023 v0.1.51
+Sat Oct 21 10:10:51 2023 +0200 - 839eee1 - Frank Olbricht - Return all names for a PTR lookup in hosts blocklist (#331)
+Wed Oct 18 07:12:50 2023 +0000 - 2bc7b45 - github-actions - Automatic version bump from GitHub Action at: Wed Oct 18 07:12:50 UTC 2023 v0.1.50
+Wed Oct 18 09:12:34 2023 +0200 - 4cab3a9 - Frank Olbricht - Implement Socks5 support (#317)
+Thu Oct 12 08:00:03 2023 +0000 - 04b95f4 - github-actions - Automatic version bump from GitHub Action at: Thu Oct 12 08:00:03 UTC 2023 v0.1.49
+Thu Oct 12 09:59:46 2023 +0200 - 8a31112 - dependabot[bot] - Bump golang.org/x/net from 0.10.0 to 0.17.0 (#346)
+Tue Sep 26 11:59:37 2023 +0000 - 0d7d837 - github-actions - Automatic version bump from GitHub Action at: Tue Sep 26 11:59:37 UTC 2023 v0.1.48
+Tue Sep 26 13:59:25 2023 +0200 - 2d9e84b - Frank Olbricht - Support inverting the behavior of response-blocklist-ip / -name (#344)
+Mon Sep 25 08:18:51 2023 +0000 - a17258b - github-actions - Automatic version bump from GitHub Action at: Mon Sep 25 08:18:51 UTC 2023 v0.1.47
+Mon Sep 25 10:18:37 2023 +0200 - f359269 - Frank Olbricht - Avoid loading bad cache records from disk (#340)
+Mon Sep 11 18:29:51 2023 +0000 - 2346b8d - github-actions - Automatic version bump from GitHub Action at: Mon Sep 11 18:29:51 UTC 2023 v0.1.46
+Mon Sep 11 13:29:40 2023 -0500 - e11e4c1 - Charles Porth - Merge pull request #339 from folbricht/issue-334
+Mon Sep 11 13:28:48 2023 -0500 - e11e4c1 - Charles Porth - Fix deadlock in fail-back group
+Mon Sep 11 18:13:50 2023 +0000 - c39987f - github-actions - Automatic version bump from GitHub Action at: Mon Sep 11 18:13:50 UTC 2023 v0.1.45
+Mon Sep 4 16:57:04 2023 +0000 - ec386f1 - github-actions - Automatic version bump from GitHub Action at: Mon Sep  4 16:57:04 UTC 2023 v0.1.44
+Mon Sep 4 18:56:52 2023 +0200 - 0705aa1 - Frank Olbricht - Treat 'reset-after' time in random group as seconds (#333)
+Mon Sep 4 15:58:32 2023 +0200 - 6526f46 - folbrich - Fix divide by zero in cache answer-shuffle
+Mon Sep 4 12:26:31 2023 +0000 - f44ee3d - github-actions - Automatic version bump from GitHub Action at: Mon Sep  4 12:26:31 UTC 2023 v0.1.43
+Mon Sep 4 14:26:18 2023 +0200 - 82c7a7a - Frank Olbricht - Fix Round-Robin rotation of cached records (#328)
+Thu Aug 31 06:42:18 2023 +0000 - f078b19 - github-actions - Automatic version bump from GitHub Action at: Thu Aug 31 06:42:17 UTC 2023 v0.1.42
+Thu Aug 31 08:42:02 2023 +0200 - 8b52ac2 - Frank Olbricht - Set ServerName for DoQ TLS validation explicitly (#329)
+Wed Aug 23 07:44:06 2023 +0000 - d718c4a - github-actions - Automatic version bump from GitHub Action at: Wed Aug 23 07:44:06 UTC 2023 v0.1.41
+Wed Aug 23 09:43:52 2023 +0200 - 8676c94 - Frank Olbricht - Separate DNSSEC queries from normal queries in the cache (#322)
+Tue Aug 22 06:48:53 2023 +0000 - 5f3c783 - github-actions - Automatic version bump from GitHub Action at: Tue Aug 22 06:48:53 UTC 2023 v0.1.40
+Tue Aug 22 08:48:39 2023 +0200 - 51c847f - Frank Olbricht - Update quic-go to support building with Go 1.21 (#323)
+Sat Jul 29 08:19:54 2023 +0000 - 9e0594d - github-actions - Automatic version bump from GitHub Action at: Sat Jul 29 08:19:54 UTC 2023 v0.1.39
+Sat Jul 29 10:19:43 2023 +0200 - f56bf12 - Frank Olbricht - Honor query timeout in udp/tcp resolvers (#319)
+Thu Jun 8 05:42:40 2023 +0000 - e1f931f - github-actions - Automatic version bump from GitHub Action at: Thu Jun  8 05:42:40 UTC 2023 v0.1.38
+Thu Jun 8 07:42:28 2023 +0200 - d2fe135 - Frank Olbricht - Implement Redis backend for cache (#315)
+Fri May 12 00:21:14 2023 +0000 - 70856ae - github-actions - Automatic version bump from GitHub Action at: Fri May 12 00:21:14 UTC 2023 v0.1.37
+Fri May 12 09:21:00 2023 +0900 - a2fab57 - Frank Olbricht - Implement memory backend with persistence (#300)
+Sat May 6 10:54:04 2023 +0000 - 5c4575f - github-actions - Automatic version bump from GitHub Action at: Sat May  6 10:54:04 UTC 2023 v0.1.36
+Sat May 6 12:53:51 2023 +0200 - d57197a - Frank Olbricht - Minimize responses regardless of RCODE (#303)
+Mon May 1 08:11:04 2023 +0000 - 67ce0af - github-actions - Automatic version bump from GitHub Action at: Mon May  1 08:11:04 UTC 2023 v0.1.35
+Mon May 1 10:10:51 2023 +0200 - 777af66 - Frank Olbricht - New cache-rcode-max-ttl option for caches (#304)
+Sat Apr 15 18:18:43 2023 +0000 - 6ae1a13 - github-actions - Automatic version bump from GitHub Action at: Sat Apr 15 18:18:43 UTC 2023 v0.1.34
+Sat Apr 15 20:18:31 2023 +0200 - 2482625 - Frank Olbricht - Separate cache logic from storage (#280)
+Fri Apr 7 17:38:19 2023 +0000 - 652a9bc - github-actions - Automatic version bump from GitHub Action at: Fri Apr  7 17:38:19 UTC 2023 v0.1.33
+Fri Apr 7 19:38:06 2023 +0200 - f04e002 - Frank Olbricht - Fix race in DOQ client (#296)
+Sat Apr 1 07:17:09 2023 +0000 - f5bfd16 - github-actions - Automatic version bump from GitHub Action at: Sat Apr  1 07:17:09 UTC 2023 v0.1.32
+Sat Apr 1 09:16:55 2023 +0200 - d4337cb - Frank Olbricht - Copy queries prior to packing them in resolvers (#290)
+Sun Mar 26 10:46:06 2023 +0000 - 137678b - github-actions - Automatic version bump from GitHub Action at: Sun Mar 26 10:46:06 UTC 2023 v0.1.31
+Sun Mar 26 12:45:54 2023 +0200 - 6797fff - Frank Olbricht - New 'allow-failure' flag for blocklist loaders (#294)
+Sun Mar 26 10:04:57 2023 +0000 - 23fcca8 - github-actions - Automatic version bump from GitHub Action at: Sun Mar 26 10:04:57 UTC 2023 v0.1.30
+Sun Mar 26 12:04:41 2023 +0200 - 82f2bb6 - Frank Olbricht - New 'query-timeout' option for resolvers (#295)
+Wed Mar 22 08:37:17 2023 +0000 - 5392ec9 - github-actions - Automatic version bump from GitHub Action at: Wed Mar 22 08:37:17 UTC 2023 v0.1.29
+Wed Mar 22 09:37:05 2023 +0100 - 2b15015 - Frank Olbricht - Revert "Merge pull request #259 from folbricht/issue-153" (#292)
+Sun Mar 5 22:44:14 2023 +0000 - c97951e - github-actions - Automatic version bump from GitHub Action at: Sun Mar  5 22:44:14 UTC 2023 v0.1.28
+Sun Mar 5 16:44:03 2023 -0600 - e944173 - Charles Porth - Merge pull request #259 from folbricht/issue-153
+Sat Mar 4 07:43:42 2023 +0000 - 5374a48 - github-actions - Automatic version bump from GitHub Action at: Sat Mar  4 07:43:42 UTC 2023 v0.1.27
+Sat Mar 4 08:43:31 2023 +0100 - 83cfb29 - Matt Keenan - DoQ copy query to prevent false sharing w/ 0 query Id (#288)
+Sat Mar 4 07:40:20 2023 +0000 - 49aa1b5 - github-actions - Automatic version bump from GitHub Action at: Sat Mar  4 07:40:20 UTC 2023 v0.1.26
+Sat Mar 4 08:40:07 2023 +0100 - 96fd6d2 - Matt Keenan - update README for DoQ info and golang ver requirement bump (#289)
+Fri Mar 3 14:56:09 2023 +0000 - 0a5a663 - github-actions - Automatic version bump from GitHub Action at: Fri Mar  3 14:56:09 UTC 2023 v0.1.25
+Fri Mar 3 08:55:56 2023 -0600 - a41ead9 - Charles Porth - Merge pull request #285 from folbricht/issue-284
+Fri Mar 3 08:55:15 2023 -0600 - a1acb69 - Charlie Porth - Fixed and working - Date: Fri Mar  3 08:55:15 CST 2023
+Fri Mar 3 10:14:21 2023 +0000 - 90aded4 - github-actions - Automatic Version bump from GitHub Action at: Fri Mar  3 10:14:21 UTC 2023 v0.1.24
+Fri Mar 3 11:14:07 2023 +0100 - c72fba2 - Matt Keenan - close UDP socket after quic new stream fails (#287)
+Tue Feb 21 14:50:42 2023 -0600 - 52b4ca5 - Charlie Porth - Fixed readme
+Tue Feb 21 14:48:28 2023 -0600 - ecafbf4 - Charlie Porth - Fixed tab indents in yaml
+Tue Feb 21 14:45:19 2023 -0600 - 7890cc7 - Charlie Porth - Fix version bump ci: Tue Feb 21 14:45:19 CST 2023
+Mon Feb 20 02:24:36 2023 +0000 - 61f78a0 - github-actions - Automatic Version bump from GitHub Action at: Mon Feb 20 02:24:36 UTC 2023 v0.1.23
+Sun Feb 19 20:24:23 2023 -0600 - d4d188c - Charles Porth - Merge pull request #283 from folbricht/dependabot/go_modules/golang.org/x/net-0.7.0
+Sat Feb 18 04:18:49 2023 +0000 - d4d188c - dependabot[bot] - bump golang.org/x/net from 0.5.0 to 0.7.0
+Thu Feb 16 11:38:28 2023 -0600 - 5fbb915 - Charlie Porth - Fixed and working - Date: Thu Feb 16 11:38:28 CST 2023
+Thu Feb 16 09:36:54 2023 -0600 - ee68898 - Charles Porth - Update cache.go
+Thu Feb 16 09:33:21 2023 -0600 - 24fac4c - Charles Porth - Merge branch 'master' into issue-153
+Mon Feb 13 22:07:30 2023 +0000 - d5e65e4 - github-actions - Automatic Version bump from GitHub Action at: Mon Feb 13 22:07:30 UTC 2023 v0.1.22
+Mon Feb 13 16:07:14 2023 -0600 - bac172f - Charles Porth - Merge pull request #282 from folbricht/dependabot/go_modules/github.com/pion/dtls/v2-2.2.4
+Mon Feb 13 20:54:14 2023 +0000 - bac172f - dependabot[bot] - Bump github.com/pion/dtls/v2 from 2.1.5 to 2.2.4
+Fri Feb 3 00:24:18 2023 +0000 - bebd40d - github-actions - Automatic Version bump from GitHub Action at: Fri Feb  3 00:24:18 UTC 2023 v0.1.21
+Thu Feb 2 18:24:03 2023 -0600 - 26304f5 - Charles Porth - Merge pull request #281 from apernet/master
+Wed Feb 1 23:04:43 2023 -0800 - 26304f5 - tobyxdd - Bump quic-go to 0.32.0
+Thu Jan 26 19:26:50 2023 +0000 - 00abef2 - github-actions - Automatic Version bump from GitHub Action at: Thu Jan 26 19:26:50 UTC 2023 v0.1.20
+Thu Jan 26 13:26:35 2023 -0600 - 0586f77 - Charles Porth - Merge pull request #279 from folbricht/prefetch-3
+Thu Jan 26 12:16:36 2023 +0100 - 0586f77 - folbrich - update docs
+Thu Jan 26 12:00:37 2023 +0100 - 552bf1f - folbrich - example config
+Thu Jan 26 11:56:26 2023 +0100 - 270aaed - folbrich - Avoid prefetching records with lower TTL
+Thu Jan 26 11:56:26 2023 +0100 - 99c18b4 - Charlie Porth - Fixed typo
+Thu Jan 26 11:56:22 2023 +0100 - 68ab980 - Charlie Porth - Fixed typo
+Thu Jan 26 11:55:20 2023 +0100 - 666b9b2 - folbrich - Prefetch feature in cache
+Mon Jan 23 08:16:42 2023 +0000 - d945ec2 - github-actions - Automatic Version bump from GitHub Action at: Mon Jan 23 08:16:42 UTC 2023 v0.1.19
+Mon Jan 23 09:16:29 2023 +0100 - 7bf018d - Frank Olbricht - Fix log message when forwarding query to blocklist resolver (#277)
+Sun Jan 8 03:26:03 2023 +0000 - 7dc0163 - github-actions - Automatic Version bump from GitHub Action at: Sun Jan  8 03:26:03 UTC 2023 v0.1.18
+Sat Jan 7 21:25:48 2023 -0600 - 2ab3b4d - Charles Porth - Merge pull request #269 from folbricht/issue-268
+Sun Jan 8 03:25:20 2023 +0000 - 03c0da2 - github-actions - Automatic Version bump from GitHub Action at: Sun Jan  8 03:25:20 UTC 2023 v0.1.17
+Sat Jan 7 21:25:04 2023 -0600 - 0822bf1 - Charles Porth - Merge pull request #275 from folbricht/issue-274
+Sat Jan 7 15:35:44 2023 +0100 - 0822bf1 - folbrich - Fix division by 0 when calculating the average TTL of empty responses
+Wed Dec 28 10:51:54 2022 +0100 - fb58b55 - folbrich - Support routing by ListenerID or TLS server name
+Wed Dec 28 09:50:23 2022 +0000 - 2362221 - github-actions - Automatic Version bump from GitHub Action at: Wed Dec 28 09:50:23 UTC 2022 v0.1.16
+Wed Dec 28 10:50:12 2022 +0100 - 1a1389f - Frank Olbricht - Update deps and require Go 1.18 (#272)
+Tue Dec 27 19:59:46 2022 +0000 - cea01cc - github-actions - Automatic Version bump from GitHub Action at: Tue Dec 27 19:59:46 UTC 2022 v0.1.15
+Tue Dec 27 20:59:34 2022 +0100 - 243a7ca - Frank Olbricht - Fix nil-ptr when there is no response in request-dedup (#271)
+Tue Dec 27 15:33:47 2022 +0000 - 1c823b3 - github-actions - Automatic Version bump from GitHub Action at: Tue Dec 27 15:33:47 UTC 2022 v0.1.14
+Tue Dec 27 16:33:34 2022 +0100 - b0d8707 - Frank Olbricht - Fix data-race in request-dedup component (#270)
+Tue Sep 20 14:12:52 2022 -0500 - c4bdc1d - Charlie Porth - Mod tidy && rm vender
+Tue Sep 20 14:12:30 2022 -0500 - 3387604 - Charlie Porth - Mod tidy && rm vender
+Tue Sep 20 14:04:28 2022 -0500 - bcd16a7 - Charlie Porth - Mod tidy && rm vender
+Tue Sep 20 14:00:52 2022 -0500 - df67c9c - Charlie Porth - Mod tidy && rm vender
+Sat Sep 3 15:52:31 2022 -0500 - affccd7 - Charles Porth - Merge pull request #262 from folbricht/issue-153-update-from-master
+Sat Sep 3 15:51:39 2022 -0500 - affccd7 - Charles Porth - Merge branch 'issue-153' into issue-153-update-from-master
+Sat Sep 3 20:21:29 2022 +0000 - ee0c210 - github-actions - Automatic Version bump from GitHub Action at: Sat Sep  3 20:21:29 UTC 2022 v0.1.13
+Sat Sep 3 15:21:15 2022 -0500 - 16bf4ea - Charles Porth - Merge pull request #258 from folbricht/issue-257
+Sat Sep 3 09:45:04 2022 -0500 - b487463 - Charles Porth - Merge branch 'master' into issue-153
+Sat Sep 3 09:43:37 2022 -0500 - c8be0b1 - Charlie Porth - RM vendor
+Thu Sep 1 06:41:02 2022 +0000 - cd65042 - github-actions - Automatic Version bump from GitHub Action at: Thu Sep  1 06:41:02 UTC 2022 v0.1.12
+Thu Sep 1 08:40:49 2022 +0200 - c448f4d - mrmenndev - Add support for ARM in Dockerfile (#254)
+Wed Aug 31 23:56:18 2022 -0500 - 35f172b - Charlie Porth - Added go vendor for whatever reason Goland is requiring this right now until I can figure it out later it will preseist
+Wed Aug 24 11:57:55 2022 +0800 - 00662d2 - Charlie Porth - Mod tidy
+Wed Aug 24 11:55:20 2022 +0800 - 9e977e6 - Charlie Porth - Fixed issue with regex blacklist
+Mon Aug 22 17:09:53 2022 +0800 - 19fbb53 - Charlie Porth - Issues with aggisemnet being out of file/
+Mon Aug 22 17:07:24 2022 +0800 - fa952ae - Charlie Porth - Reset of blocklist
+Fri Aug 19 10:47:09 2022 +0200 - d954286 - folbrich - Allow blocklist loader to fail on startup
+Tue Aug 16 11:31:29 2022 +0200 - 72ac4c4 - folbrich - update docs
+Tue Aug 16 11:28:25 2022 +0200 - 1589620 - folbrich - Prefix DoQ packets with length as per rfc9250
+Thu Aug 11 06:36:51 2022 +0000 - 0a436d7 - github-actions - Automatic Version bump from GitHub Action at: Thu Aug 11 06:36:51 UTC 2022 v0.1.11
+Thu Aug 11 08:36:35 2022 +0200 - 23dbe48 - Frank Olbricht - Fix error in rate-limiter example config (#253)
+Tue Aug 9 14:04:39 2022 +0000 - 41e3ec4 - github-actions - Automatic Version bump from GitHub Action at: Tue Aug  9 14:04:39 UTC 2022 v0.1.10
+Tue Aug 9 16:04:22 2022 +0200 - 3e1f282 - Frank Olbricht - Support selector functions for TTL modifier (#245)
+Sat Aug 6 20:20:12 2022 +0000 - d4a3191 - github-actions - Automatic Version bump from GitHub Action at: Sat Aug  6 20:20:12 UTC 2022 v0.1.9
+Sat Aug 6 15:20:00 2022 -0500 - 147670f - Charles Porth - Merge pull request #250 from HyNetwork/quic-0.28
+Sat Aug 6 12:53:31 2022 -0700 - 147670f - Toby - Bump quic-go to 0.28.1
+Sat Jul 16 10:05:53 2022 +0000 - 9697d2c - github-actions - Automatic Version bump from GitHub Action at: Sat Jul 16 10:05:53 UTC 2022 v0.1.8
+Sat Jul 16 12:05:39 2022 +0200 - e427b72 - Frank Olbricht - Support no-tls option on DoH (TCP) servers (#239)
+Fri Jun 24 15:04:36 2022 +0000 - 30d3274 - github-actions - Automatic Version bump from GitHub Action at: Fri Jun 24 15:04:36 UTC 2022 v0.1.7
+Fri Jun 24 17:04:20 2022 +0200 - d946a73 - Jeroen Simonetti - Harden systemd service (#243)
+Thu Jun 23 09:17:33 2022 +0000 - e6ca299 - github-actions - Automatic Version bump from GitHub Action at: Thu Jun 23 09:17:33 UTC 2022 v0.1.6
+Thu Jun 23 11:17:18 2022 +0200 - b8fe31a - Frank Olbricht - Ability to route by DoH path (#240)
+Fri May 20 11:50:54 2022 +0000 - e4014d8 - github-actions - Automatic Version bump from GitHub Action at: Fri May 20 11:50:54 UTC 2022 v0.1.5
+Fri May 20 13:50:37 2022 +0200 - 57c08a4 - Frank Olbricht - New element to log queries via syslog (#233)
+Sun Apr 10 18:00:53 2022 +0000 - 7053805 - github-actions - Automatic Version bump from GitHub Action at: Sun Apr 10 18:00:53 UTC 2022 v0.1.4
+Sun Apr 10 20:00:42 2022 +0200 - f056067 - Frank Olbricht - Update dependencies (#232)
+Sun Mar 27 19:33:33 2022 +0000 - c2adb86 - github-actions - Automatic Version bump from GitHub Action at: Sun Mar 27 19:33:33 UTC 2022 v0.1.3
+Sun Mar 27 14:33:21 2022 -0500 - 6d7131a - Charles Porth - Merge pull request #228 from folbricht/charlieporth1-patch-1-version-bumo
+Sun Mar 27 14:32:44 2022 -0500 - 6d7131a - Charles Porth - Update version_bump.yaml
+Sun Mar 27 14:30:06 2022 -0500 - d0892a1 - Charles Porth - Merge pull request #227 from folbricht/charlieporth1-patch-1-version-bumo
+Sun Mar 27 14:29:32 2022 -0500 - d0892a1 - Charles Porth - Update version_bump.yaml
+Sun Mar 27 14:27:51 2022 -0500 - 9477028 - Charles Porth - Merge pull request #226 from folbricht/charlieporth1-patch-1-version-bumo
+Sun Mar 27 14:27:08 2022 -0500 - 9477028 - Charles Porth - Update version_bump.yaml
+Sun Mar 27 14:23:26 2022 -0500 - 9420b7d - Charles Porth - Merge pull request #224 from folbricht/charlieporth1-patch-1-version-bumo
+Sun Mar 27 14:19:33 2022 -0500 - 9420b7d - Charles Porth - Merge branch 'master' into charlieporth1-patch-1-version-bumo
+Sun Mar 27 14:19:04 2022 -0500 - 9420b7d - Charles Porth - Update version.go
+Sun Mar 27 14:18:34 2022 -0500 - 0f977cb - Charles Porth - Update version_bump.yaml
+Sun Mar 27 14:16:35 2022 -0500 - d63b33c - Charles Porth - Update version_bump.yaml
+Sun Mar 27 19:15:53 2022 +0000 - 6bac942 - github-actions - Automatic Version bump from GitHub Action at: Sun Mar 27 19:15:53 UTC 2022 v0.1.3
+Sun Mar 27 14:15:42 2022 -0500 - 2aad287 - Charles Porth - Update version.go
+Sun Mar 27 14:14:39 2022 -0500 - 38f9e4b - Charles Porth - Update version_bump.yaml
+Sun Mar 27 19:01:16 2022 +0000 - ded936c - github-actions - Automatic Version bump from GitHub Action at: Sun Mar 27 19:01:16 UTC 2022 v0.1.2
+Sun Mar 27 14:01:05 2022 -0500 - 811a8ac - Charles Porth - Merge pull request #222 from folbricht/automatic-version-bump
+Wed Mar 16 22:20:44 2022 +0000 - 811a8ac - github-actions - Automatic Version bump from GitHub Action at: Wed Mar 16 22:20:44 UTC 2022 v0.1.1
+Wed Mar 16 22:20:44 2022 +0000 - f270779 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:20:28 2022 -0500 - f270779 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:19:39 2022 -0500 - 53456f9 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:18:42 2022 -0500 - 2fb238c - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:17:41 2022 -0500 - b240739 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:15:18 2022 -0500 - bfca1b9 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:13:54 2022 -0500 - 85ddd43 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:12:18 2022 -0500 - aa40fe2 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:11:32 2022 -0500 - 4236de2 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:10:37 2022 -0500 - 0e878bb - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:09:46 2022 -0500 - 441e980 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:08:07 2022 -0500 - 90bc894 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:06:47 2022 -0500 - 9e13482 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:03:36 2022 -0500 - 80d42eb - Charles Porth - Update version_bump.yaml
+Wed Mar 16 17:01:59 2022 -0500 - 808440a - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:58:50 2022 -0500 - 1706b75 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:57:53 2022 -0500 - 09565f8 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:56:51 2022 -0500 - a6d137d - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:55:49 2022 -0500 - bc7d588 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:51:51 2022 -0500 - 16122ca - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:50:24 2022 -0500 - 74ced42 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:48:01 2022 -0500 - 46badc0 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:42:19 2022 -0500 - 6659b14 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:34:31 2022 -0500 - ce4c72b - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:33:11 2022 -0500 - 9d80155 - Charles Porth - Update version_bump.yaml
+Wed Mar 16 16:25:19 2022 -0500 - 32daff2 - Charles Porth - Create version_bump.yaml
+Wed Mar 16 13:07:01 2022 -0500 - d595d83 - Charles Porth - Merge pull request #221 from folbricht/update-libs
+Wed Mar 16 12:59:18 2022 -0500 - d595d83 - Charles Porth - Updated to include the service file
+Wed Mar 16 12:56:54 2022 -0500 - a9bd090 - Charles Porth - rm exe and updated gitignore
+Wed Mar 16 12:46:36 2022 -0500 - 0b7da9d - Charles Porth - Removed issue
+Wed Mar 16 12:14:40 2022 -0500 - a72f233 - Charles Porth - Cobra made major lighter changes in 1.4 good idea to update as well
+Wed Mar 16 12:09:36 2022 -0500 - 0f5a781 - Charles Porth - Updated libs to fix #218
+Wed Mar 16 12:07:18 2022 -0500 - f34c493 - Charles Porth - Updated libs to fix #218
+Wed Mar 16 05:42:37 2022 -0500 - 694f199 - Charles Porth - Merge pull request #219 from cbuijs/patch-1
+Mon Mar 14 11:16:42 2022 +0100 - 694f199 - Chris Buijs - Update readme with link to pre-compiled/build binaries repo
+Thu Feb 10 18:26:40 2022 -0700 - 2ee6296 - Frank Olbricht - Add logging to ECS modifier (#213)
+Sat Feb 5 07:29:34 2022 -0700 - 6e82a12 - Chris Buijs - Add truncate option in static-responder to set TC bit (#211)
+Tue Feb 1 14:11:12 2022 -0700 - b9e600a - Frank Olbricht - Fix logging for blocklist hits with blocklist-resolver (#207)
+Tue Jan 11 17:40:32 2022 -0700 - b9539d1 - Frank Olbricht - Fix nil pointer panic when doing PTR lookups with hosts blocklist (#203)
+Sun Jan 9 07:44:53 2022 -0700 - faeb061 - Frank Olbricht - Support naming blocklists to help with logging (#201)
+Sat Jan 8 15:41:04 2022 -0700 - 37cee18 - Charles Porth - Default ports feature (#195)
+Sun Dec 26 10:56:59 2021 -0700 - 6890511 - Frank Olbricht - Fix panic when stripping multiple EDNS0 padding options (#199)
+Mon Nov 29 06:37:12 2021 -0700 - 5508174 - Frank Olbricht - Preserve non-IP records in response from fastest-tcp (#192)
+Tue Oct 12 08:56:56 2021 -0500 - a1b1fbe - Charles Porth - Merge pull request #184 from folbricht/feature_version_argument
+Mon Sep 27 13:09:20 2021 -0500 - a1b1fbe - Charlie Porth - Corrected version number
+Tue Sep 21 09:14:28 2021 -0500 - 06e9131 - Charlie Porth - Fixes for Franks suggestions
+Thu Sep 16 09:00:10 2021 -0500 - ff9538b - Charlie Porth - Reformated code
+Thu Sep 16 08:59:30 2021 -0500 - 982394c - Charlie Porth - Moved functions
+Thu Sep 16 08:56:12 2021 -0500 - 1cb7851 - Charlie Porth - Added versioning for updating and debugging reasons
+Mon Sep 13 16:41:29 2021 -0600 - 5145321 - Charles Porth - Update configuration.md (#183)
+Sat Aug 28 15:18:18 2021 -0600 - c6a6ec5 - Frank Olbricht - New request-dedup group (#181)
+Sat Aug 28 15:08:46 2021 -0600 - 00557c7 - Frank Olbricht - Fix tests (#182)
+Sat Aug 28 12:00:29 2021 -0600 - 5f8b8f2 - Frank Olbricht - Fix DTLS connection handling (#180)
+Wed Aug 18 08:30:35 2021 -0500 - 3dff02a - Charles Porth - Merge pull request #176 from folbricht/charlieporth1-patch-1-automatic-infosec-review
+Sun Aug 15 09:08:51 2021 -0500 - 3dff02a - Charles Porth - Create codeql-analysis.yml
+Sun Aug 8 07:36:00 2021 -0600 - 2eed3fc - Frank Olbricht - Support retry on truncation (#171)
+Thu Aug 5 22:09:29 2021 -0600 - f910fd7 - Frank Olbricht - Support flushing a cache remotely (#168)
+Fri Jul 30 06:39:31 2021 -0600 - 1f5563a - Frank Olbricht - Fix connection leak when using QUIC (#173)
+Sat Jul 3 14:28:08 2021 -0600 - 9d5f2be - Frank Olbricht - New fastest-tcp group to probe TCP connections (#155)
+Sat Jun 19 13:57:34 2021 -0600 - 3704013 - Frank Olbricht - New flag to control SERVFAIL behavior in failover groups (#166)
+Sat Jun 19 13:53:08 2021 -0600 - bc1758e - Frank Olbricht - Support routing by time and weekday (#167)
+Sat Jun 12 09:53:06 2021 -0600 - a9e3afd - Charles Porth - Added regex formating to configure.md (#164)
+Sat Jun 12 09:52:13 2021 -0600 - c670cf9 - Frank Olbricht - Update QUIC to support RFC9000 (#163)
+Tue Jun 1 07:06:47 2021 -0600 - 93e2de4 - Frank Olbricht - Update dtls to 2.0.9 (#157)
+Sat May 29 17:02:19 2021 -0600 - 236581d - Frank Olbricht - Update docs and example to match doq-i02 (#154)
+Thu May 13 20:30:17 2021 -0600 - 975c95d - folbrich - Fix typo as per #151
+Sat May 1 10:57:50 2021 -0600 - c44d439 - Frank Olbricht - Update dependencies (#146)
+Tue Mar 30 21:02:29 2021 -0600 - f15b087 - Frank Olbricht - Correct ALPN token for DOQ (#148)
+Sat Mar 27 08:55:25 2021 -0600 - 6377fab - Frank Olbricht - New test for pipeline timeout (#145)
+Sat Mar 27 08:33:36 2021 -0600 - c2cde55 - Dmitry Mikhirev - Fix hang queuing a request (#144)
+Mon Mar 22 18:12:15 2021 -0600 - 30eb50a - Frank Olbricht - Fix shuffle default for cache (#141)
+Thu Mar 4 19:50:42 2021 -0700 - 68496c7 - Frank Olbricht - Return copies of responses from the cache (#136)
+Mon Mar 1 18:40:05 2021 -0700 - 87b863d - Frank Olbricht - Only store copies of answers in the cache (#135)
+Mon Mar 1 18:15:03 2021 -0700 - cc62180 - Frank Olbricht - New cache-harden-below-nxdomain option (#132)
+Mon Feb 8 17:51:21 2021 -0700 - 6619729 - Frank Olbricht - New cache option to control the order of answers (#128)
+Sun Jan 31 08:15:21 2021 -0700 - 827711b - Frank Olbricht - Avoid panic in QUIC error handling (#129)
+Sat Jan 2 10:22:19 2021 -0700 - 44a67ad - folbrich - Fix typo
+Fri Jan 1 11:50:07 2021 -0700 - dc0df8d - folbrich - Fix formatting in markdown
+Thu Dec 31 08:11:30 2020 -0700 - a737cfe - Frank Olbricht - Fix router dependency check (#122)
+Wed Dec 30 09:09:02 2020 -0700 - 2431282 - Frank Olbricht - Restore the original query ID when DoQ fails (#120)
+Tue Dec 29 18:19:39 2020 -0700 - f6ba4de - Frank Olbricht - Refactor configuration validation (#117)
+Tue Dec 29 18:19:26 2020 -0700 - ebd4e7d - Frank Olbricht - Return PTR records for hosts file blocklists (#115)
+Mon Dec 28 11:43:40 2020 -0700 - fe18fc9 - Frank Olbricht - Don't collapse or minimize unsuccessful responses (#114)
+Mon Dec 28 11:42:19 2020 -0700 - aca7a79 - Frank Olbricht - Option to change the response code after collapsing to zero (#109)
+Mon Dec 28 08:34:27 2020 -0700 - 649fd26 - Frank Olbricht - New 'fastest' group (#112)
+Sat Dec 19 12:18:22 2020 -0700 - b5ead5a - folbrich - Update dependencies
+Sat Dec 19 11:13:00 2020 -0700 - 5d0df2a - Frank Olbricht - New entity: edns0-modifier (#106)
+Sun Nov 22 15:18:30 2020 -0700 - f44815a - Frank Olbricht - Provide container build (#104)
+Sun Nov 22 09:36:17 2020 -0700 - 80d5f03 - folbrich - Update dependencies and add example config for DoQ
+Sun Nov 22 09:19:56 2020 -0700 - 80c885a - Frank Olbricht - Store QUIC server tokens per resolver (#100)
+Thu Nov 19 20:07:30 2020 -0700 - 62273e7 - Frank Olbricht - Return SERVFAIL if all resolvers in a group do (#103)
+Thu Nov 12 07:05:54 2020 -0700 - fa60e74 - Frank Olbricht - Fail over to another resolver if the current one returns SERVFAIL (#101)
+Sun Nov 1 07:03:58 2020 -0700 - d2d06e7 - Frank Olbricht - Supporting multiple types in routes and inverting of routes (#97)
+Sat Oct 24 07:34:33 2020 -0600 - e69824b - Dmitry Mikhirev - Cache SERVFAIL responses (#91) (#98)
+Sun Oct 11 08:12:18 2020 -0600 - 077cecb - Frank Olbricht - Allow 4k responses (#95)
+Wed Sep 23 18:32:37 2020 -0600 - d941174 - Dmitry Mikhirev - Store empty answers in cache (#90)
+Sun Sep 6 10:18:31 2020 -0600 - 629b3ed - Frank Olbricht - Add cache-dir option to HTTP blocklists (#83)
+Sun Sep 6 10:17:39 2020 -0600 - d018125 - Frank Olbricht - Require TLS 1.2+ (#85)
+Sun Sep 6 10:17:23 2020 -0600 - 50df88a - Frank Olbricht - Support Bootstrap Resolver (#82)
+Sun Sep 6 10:16:49 2020 -0600 - 3664cb6 - folbrich - Avoid possible race condition collecting metrics
+Sun Sep 6 09:55:30 2020 -0600 - cdf9eef - SeanBurford - Expvar (#84)
+Sat Aug 22 07:42:29 2020 -0600 - 4a2c096 - Frank Olbricht - Increase DoH client timeout and update QUIC lib to work with Go 1.15 (#87)
+Wed Aug 19 06:59:27 2020 -0600 - 9a58b98 - folbrich - Update install instructions
+Sun Aug 2 09:57:58 2020 -0600 - 5d36133 - Frank Olbricht - Validate resolver addresses during startup (#77)
+Thu Jul 30 06:55:40 2020 -0600 - 9b1d5cc - SeanBurford - Subnet (#79)
+Mon Jul 27 07:06:11 2020 -0600 - bbebee0 - SeanBurford - Support X-Forwarded-For when it comes from a trusted proxy (#78)
+Tue Jul 21 07:12:09 2020 -0600 - c0b4019 - Frank Olbricht - Support setting source address of resolvers (#75)
+Sun Jul 5 14:42:52 2020 -0600 - 11f1e3a - Frank Olbricht - Cache based on query and ECS subnet address (#73)
+Mon Jun 29 06:31:09 2020 -0600 - e8379cb - Frank Olbricht - Request rate-limiter (#71)
+Sun Jun 28 15:39:48 2020 -0600 - 3210457 - folbrich - Set DoH server read/write timeout
+Mon Jun 22 20:19:36 2020 -0600 - 62f2ce0 - Frank Olbricht - Log query type (#69)
+Sun Jun 21 12:01:23 2020 -0600 - de8f4e2 - Frank Olbricht - Add example use-case with remote blocklists (#70)
+Mon Jun 15 19:15:38 2020 -0600 - 0609c98 - Frank Olbricht - Support blocking on client IP with client-blocklist (#63)
+Mon Jun 15 19:14:53 2020 -0600 - 0e5cfdf - Frank Olbricht - Support IPs without mask suffix in blocklists (#62)
+Mon Jun 15 17:18:10 2020 -0600 - 21e1470 - Frank Olbricht - Fix panic when reloading CIDR or location blocklists (#66)
+Mon Jun 15 17:07:16 2020 -0600 - 1d5af12 - ~Mich - Pass back the loader given upon instantiation of the domain BlocklistDB (#65)
+Fri Jun 12 06:40:28 2020 -0600 - 6f15e19 - Frank Olbricht - Always use the clientIP for ECS Add when none is configured (#59)
+Wed Jun 10 20:36:56 2020 -0600 - 82e6533 - Frank Olbricht - Add Random resolver group (#53)
+Mon Jun 8 17:06:40 2020 -0600 - bf9bf64 - folbrich - Don't change Rcode in cached responses
+Mon Jun 8 16:22:14 2020 -0600 - a7fe04f - Frank Olbricht - New elements to minimize and collapse responses (#54)
+Sun Jun 7 13:24:51 2020 -0600 - c293840 - Frank Olbricht - Improve logging (#51)
+Sun Jun 7 09:23:28 2020 -0600 - 9b696b3 - folbrich - Explain how to set TTL in static responder
+Sun Jun 7 08:53:42 2020 -0600 - 287291c - Frank Olbricht - Use alternative blocklist-resolver if available when filtering all an… (#50)
+Fri Jun 5 21:42:20 2020 -0600 - a9392bd - folbrich - Add note about QUIC support to main README.md
+Fri Jun 5 06:26:51 2020 -0600 - c2f1c39 - folbrich - Don't set Do bit by default
+Fri Jun 5 06:08:36 2020 -0600 - a9b2921 - Frank Olbricht - Support for DNS-over-DTLS (#41)
+Thu Jun 4 17:31:50 2020 -0600 - 5ceb4cf - Frank Olbricht - Geo-Location blocking (#40)
+Wed Jun 3 16:58:51 2020 -0600 - bc6bc3b - Frank Olbricht - Skip blank lines and comments in blocklist rules (#45)
+Sun May 31 20:24:08 2020 -0600 - 1c05860 - Frank Olbricht - Improve docs and break out config guide (#39)
+Sun May 31 14:29:32 2020 -0600 - 9ee41bc - Frank Olbricht - New cache options to limit the size and set negative-TTL and ttl-modifier (#37)
+Mon May 25 16:19:05 2020 -0600 - 7108d77 - folbrich - remove conflict marker
+Mon May 25 16:18:18 2020 -0600 - ed442cd - folbrich - Update install doc and add more well-known DNS servers to example config
+Mon May 25 16:16:39 2020 -0600 - 97ef871 - Frank Olbricht - DoH with QUIC (#34)
+Sun May 24 17:11:36 2020 -0600 - 202af87 - Frank Olbricht - Setup Github workflow (#35)
+Sun May 24 08:16:14 2020 -0600 - 7431697 - Frank Olbricht - Support DNS-over-QUIC (#30)
+Fri May 22 21:00:09 2020 -0600 - a75be57 - Frank Olbricht - Support for routing by class (#29)
+Fri May 22 07:21:23 2020 -0600 - dab7d69 - Frank Olbricht - Allow filtering of responses in addition to blocking (#26)
+Sun May 17 13:41:58 2020 -0600 - cf32567 - folbrich - Example of how to generate RFC8482 responses to ANY queries
+Sun May 17 08:22:00 2020 -0600 - 0b9e864 - Frank Olbricht - Add static-responder group (#25)
+Wed May 13 07:01:03 2020 -0600 - 3fd9bfc - Frank Olbricht - Support alternative resolvers for block/allowlist matches (#23)
+Thu May 7 20:29:56 2020 -0600 - 538c203 - Frank Olbricht - Blocklists for responses (#20)
+Sat May 2 10:30:18 2020 -0600 - c0583b7 - folbrich - Fix linter warnings
+Sat May 2 10:08:44 2020 -0600 - 861db10 - folbrich - Remove debugging code
+Wed Apr 29 20:23:27 2020 -0600 - fde3130 - Frank Olbricht - Merge pull request #17 from folbricht/issue-13
+Wed Apr 29 20:22:41 2020 -0600 - fde3130 - folbrich - Update docs and examples
+Wed Apr 22 21:40:01 2020 -0600 - c38b158 - folbrich - Support multiple types of lists in the same blocklist
+Thu Apr 16 22:03:32 2020 -0600 - 04059de - folbrich - Support allowlists as part of blocklists to override rules
+Wed Apr 15 17:05:18 2020 -0600 - 311dbb5 - Frank Olbricht - Merge pull request #16 from folbricht/issue-14
+Tue Apr 14 20:22:42 2020 -0600 - 311dbb5 - folbrich - Support allowed-net option on listeners
+Tue Apr 14 20:15:16 2020 -0600 - b6239ca - Frank Olbricht - Merge pull request #15 from folbricht/issue-9
+Mon Apr 13 21:08:31 2020 -0600 - b6239ca - folbrich - Update docs
+Sun Apr 12 19:54:55 2020 -0600 - 7efa53a - folbrich - Allow groups to depend on routers in the config
+Fri Apr 10 08:20:23 2020 -0600 - ed7799e - Frank Olbricht - Merge pull request #8 from folbricht/ecs-modifier
+Wed Apr 8 21:52:21 2020 -0600 - ed7799e - folbrich - New ecs-modifier
+Wed Apr 8 18:19:41 2020 -0600 - 295d865 - Frank Olbricht - Merge pull request #7 from folbricht/blocklist-formats
+Wed Apr 8 18:19:06 2020 -0600 - 295d865 - folbrich - Log matching blocklist rules
+Tue Apr 7 18:52:46 2020 -0600 - 2f129e0 - folbrich - Expand logging and documentation
+Mon Apr 6 22:21:35 2020 -0600 - 5e459ed - folbrich - Fix port in example
+Mon Apr 6 22:21:03 2020 -0600 - 24c68c2 - folbrich - Add support for local files and remote blocklists (HTTP)
+Mon Apr 6 20:47:33 2020 -0600 - e253b17 - folbrich - Refactor naming
+Sun Apr 5 09:02:58 2020 -0600 - cb16e97 - folbrich - Honor default blocklist format and update docs
+Sat Apr 4 19:42:39 2020 -0600 - 44de97e - folbrich - Missing files
+Sat Apr 4 19:40:17 2020 -0600 - d730283 - folbrich - Update comment
+Sat Apr 4 19:39:00 2020 -0600 - aada2ba - folbrich - Support additional hosts and domain blocklist formats
+Sat Apr 4 09:51:38 2020 -0600 - 207e694 - Frank Olbricht - Merge pull request #6 from folbricht/split-config
+Sat Apr 4 09:49:39 2020 -0600 - 207e694 - folbrich - Support configuration split over multiple files
+Sat Apr 4 09:22:31 2020 -0600 - c02c406 - Frank Olbricht - Merge pull request #3 from folbricht/cache
+Sat Apr 4 09:21:17 2020 -0600 - c02c406 - folbrich - Also cache negative responses
+Wed Apr 1 19:11:19 2020 -0600 - 7529895 - folbrich - New cache group
+Tue Dec 24 07:36:09 2019 -0700 - f433cd4 - folbrich - Fix godoc icon
+Tue Dec 24 07:32:34 2019 -0700 - 1d139ad - folbrich - Add godoc link
+Mon Oct 14 16:05:56 2019 -0600 - a339cb6 - folbrich - Don't fail on bad/unparsable responses, return them and warn instead
+Mon Sep 16 20:21:33 2019 -0600 - 577e65f - folbrich - Fix restart behavior in systemd service file
+Thu Aug 15 21:09:36 2019 -0600 - f1110d1 - folbrich - Fix typos
+Sun Jul 28 12:09:19 2019 -0600 - 3e4b1d4 - folbrich - Add bootstrap IP option to DoT and DoH resolvers
+Sun Jul 21 10:27:10 2019 -0600 - 0a0123d - folbrich - Update documentation
+Sun Jul 21 09:45:16 2019 -0600 - 9120074 - folbrich - Update Google DoH resolver URL and add OpenDNS
+Sat Jul 20 16:02:00 2019 -0600 - f9c1f65 - folbrich - Add/strip padding according to RFC7830 and RFC8467
+Sat Jul 20 10:19:09 2019 -0600 - 639dd8b - folbrich - Silence the logger while running tests
+Sat Jul 20 10:14:23 2019 -0600 - 0c50c36 - folbrich - Create go.{mod,sum}
+Sat Jul 20 10:09:14 2019 -0600 - 6248ab1 - folbrich - Remove accidentally committed lock file
+Sat Jul 20 10:06:32 2019 -0600 - 762836f - folbrich - Expand documentation
+Sat Jul 20 09:08:09 2019 -0600 - c00c625 - folbrich - Add structured logging and log levels
+Sun Jul 14 14:18:31 2019 -0600 - 3cf8cc2 - folbrich - Support HTTP2 in DoH listener as well
+Sat Jul 13 21:54:14 2019 -0600 - 5b1f97a - folbrich - Support DoH listeners
+Sat Jul 13 17:27:29 2019 -0600 - a0921ac - folbrich - Add DoT listener with support for mutual-TLS
+Sat Jul 13 09:37:29 2019 -0600 - 4ca07be - folbrich - Support CAs and client key/crt in DoT and DoH resolvers
+Sat Jul 6 15:32:47 2019 -0600 - 275c154 - folbrich - New 'replace' group to modify queries on-the-fly
+Sat Jul 6 12:46:53 2019 -0600 - 0eb9aec - folbrich - Add idle timeout to DNS connection manager to tear down idle connections
+Wed Jun 12 17:38:41 2019 -0600 - 58c99f5 - folbrich - Untangle router and group depenencies so they can reference resolvers of their own type
+Mon Jun 10 22:03:33 2019 -0600 - 80f3c3b - folbrich - Fix doc link
+Mon Jun 10 20:19:34 2019 -0600 - e592e42 - folbrich - Add blocklist type
+Mon Jun 10 19:06:12 2019 -0600 - 68cf285 - folbrich - Add routing based on client/source IP and more router tests
+Sun Jun 9 11:29:06 2019 -0600 - fa7071d - folbrich - Add fail-back group and update documentation
+Sun Jun 9 09:13:18 2019 -0600 - 399a172 - folbrich - Minor logging and doc updates. Use a dictionary for resolver-specific config
+Sat Jun 8 20:49:00 2019 -0600 - 63d7441 - folbrich - Add example config with public DNS resolvers
+Sat Jun 8 19:04:31 2019 -0600 - fab4b43 - folbrich - Add fail-rotate group
+Sat Jun 8 15:21:14 2019 -0600 - 86fee8c - folbrich - More documentation updates
+Sat Jun 8 14:33:06 2019 -0600 - f3bc1b6 - folbrich - Add package documentation and examples
+Sat Jun 8 11:58:32 2019 -0600 - 086e9a3 - folbrich - Implement DoH client and fix possible panic
+Fri Jun 7 19:22:06 2019 -0600 - 0e4394a - folbrich - Implement query timeout for all resolvers
+Fri Jun 7 18:59:52 2019 -0600 - 6a1c8da - folbrich - Use pipelining for plain tcp/udp DNS connections as well
+Thu Jun 6 19:52:17 2019 -0600 - bb7cefc - folbrich - Initial commit
+Thu Jun 6 19:43:23 2019 -0600 - 3566e81 - Frank Olbricht - Initial commit
