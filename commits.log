@@ -1,4 +1,6 @@
-Mon Feb 16 23:30:13 2026 +0100 - 3810832 - Chris Buijs - Merge branches 'dnssec-validator' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Mon Feb 23 23:30:13 2026 +0100 - c11b941 - Chris Buijs - Merge branches 'dnssec-validator' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Sat Feb 21 09:25:50 2026 +0000 - 3bc979a - github-actions - Automatic version bump from GitHub Action at: Sat Feb 21 09:25:50 UTC 2026 v0.1.137
+Sat Feb 21 10:25:44 2026 +0100 - f2fc5ee - Frank Olbricht - Expose ClientInfo fields to Lua scripts (#492)
 Sat Feb 14 17:48:59 2026 +0100 - fa3ccb6 - folbrich - Documentation
 Sat Feb 14 17:11:04 2026 +0100 - a0cf246 - folbrich - simplify
 Sat Feb 14 16:59:02 2026 +0100 - bb7e276 - folbrich - Add KSK-2024
