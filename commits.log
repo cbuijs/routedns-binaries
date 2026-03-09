@@ -1,4 +1,8 @@
-Mon Mar 2 23:30:13 2026 +0100 - 74f42e0 - Chris Buijs - Merge branches 'dnssec-validator' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Mon Mar 9 23:30:14 2026 +0100 - 7fd7a60 - Chris Buijs - Merge branches 'dnssec-validator' and 'issue-441-cache' of https://github.com/folbricht/routedns into HEAD
+Fri Mar 6 19:37:00 2026 +0000 - 5eedb78 - github-actions - Automatic version bump from GitHub Action at: Fri Mar  6 19:37:00 UTC 2026 v0.1.140
+Fri Mar 6 20:36:52 2026 +0100 - f3144dd - Frank Olbricht - Expose authoritative field in Lua Message type and fix docs (#495)
+Fri Mar 6 08:04:46 2026 +0000 - c02e951 - github-actions - Automatic version bump from GitHub Action at: Fri Mar  6 08:04:46 UTC 2026 v0.1.139
+Fri Mar 6 09:04:37 2026 +0100 - 8e9b968 - Frank Olbricht - Expose BuildVersion to Lua scripts (#494)
 Wed Feb 25 19:42:25 2026 +0000 - 436ff66 - github-actions - Automatic version bump from GitHub Action at: Wed Feb 25 19:42:25 UTC 2026 v0.1.138
 Wed Feb 25 20:42:15 2026 +0100 - aebd76f - dependabot[bot] - Bump github.com/cloudflare/circl from 1.6.1 to 1.6.3 (#493)
 Sat Feb 21 09:25:50 2026 +0000 - 3bc979a - github-actions - Automatic version bump from GitHub Action at: Sat Feb 21 09:25:50 UTC 2026 v0.1.137

@@ -1,1 +1,1 @@
-ELF 32-bit LSB executable, Intel 80386, version 1 (FreeBSD), statically linked, Go BuildID=20260302233421, BuildID[sha1]=60101c1d8348fbe341a2eec452a99976bdb5193f, for FreeBSD 12.3, FreeBSD-style, stripped
+ELF 32-bit LSB executable, Intel 80386, version 1 (FreeBSD), statically linked, Go BuildID=20260309233416, BuildID[sha1]=effab100011b0bc1dd0207fc830b08b5a4f6b3c5, for FreeBSD 12.3, FreeBSD-style, stripped
