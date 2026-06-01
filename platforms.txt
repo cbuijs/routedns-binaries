@@ -1,0 +1,25 @@
+# General #
+Directory Structure is build-up like this <OS>/<ARCHITECTURE>.
+
+# Ubiquity #
+EdgeRouter/X	: linux/mipsle
+EdgeRouter/10X	: linux/mipsle
+EdgeRouter4	: linux/mips64
+
+# PC-Engines #
+APU1		: linux/i386-sse2 or freebsd/i386-sse2
+APU2/APU3/APU4	: linux/amd64 or freebsd/amd64
+
+# Raspberyy-Pi (All models Needs Validation) #
+Raspberry-Pi1/2		: linux/arm32-v7
+Raspberry-Pi3/4/5	: linux/arm64-v8
+
+# Apple/MacOS #
+Intel Based: darwin/amd64
+Apple M1/M2/M3/M4 Based: darwin/arm64
+
+# Windows #
+Intel Based: windows/amd64
+
+WIP: More to come, suggestions welcom ...
+
