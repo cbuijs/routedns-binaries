@@ -1,4 +1,14 @@
-Mon Jun 1 23:30:14 2026 +0200 - 3ffc2bd - Chris Buijs - Merge branch 'proxy-protocol-support' of https://github.com/folbricht/routedns into HEAD
+Mon Jun 8 23:30:14 2026 +0200 - f6cf8ca - Chris Buijs - Merge branch 'proxy-protocol-support' of https://github.com/folbricht/routedns into HEAD
+Sun Jun 7 16:50:24 2026 +0000 - fcc2233 - github-actions - Automatic version bump from GitHub Action at: Sun Jun  7 16:50:24 UTC 2026 v0.1.196
+Sun Jun 7 18:49:30 2026 +0200 - 18927df - Frank Olbricht - Validate DNSSEC denial of existence for negative responses (#568)
+Sun Jun 7 16:30:17 2026 +0000 - 33a72b7 - github-actions - Automatic version bump from GitHub Action at: Sun Jun  7 16:30:17 UTC 2026 v0.1.195
+Sun Jun 7 18:29:22 2026 +0200 - 15ac3b5 - Frank Olbricht - Enforce RRSIG validity period in DNSSEC validation (#567)
+Sun Jun 7 09:09:38 2026 +0000 - 7fdbf94 - github-actions - Automatic version bump from GitHub Action at: Sun Jun  7 09:09:38 UTC 2026 v0.1.194
+Sun Jun 7 11:08:45 2026 +0200 - c9dd55e - Frank Olbricht - Convert tests to testify and use synctest in fastest tests (#566)
+Thu Jun 4 19:20:57 2026 +0000 - 0b6dbee - github-actions - Automatic version bump from GitHub Action at: Thu Jun  4 19:20:57 UTC 2026 v0.1.193
+Thu Jun 4 21:20:03 2026 +0200 - 6ba8586 - Frank Olbricht - Detect netns readiness via mount events instead of timed retries (#564)
+Wed Jun 3 21:27:25 2026 +0000 - 4942d1a - github-actions - Automatic version bump from GitHub Action at: Wed Jun  3 21:27:25 UTC 2026 v0.1.192
+Wed Jun 3 23:25:25 2026 +0200 - 564b723 - dependabot[bot] - Bump github.com/quic-go/quic-go from 0.57.1 to 0.59.1 (#565)
 Mon Jun 1 06:33:39 2026 +0000 - 6dbc176 - github-actions - Automatic version bump from GitHub Action at: Mon Jun  1 06:33:39 UTC 2026 v0.1.191
 Mon Jun 1 08:31:55 2026 +0200 - 1d30562 - Frank Olbricht - socks5: fix local-addr binding with a SOCKS5 proxy (#563)
 Fri May 29 08:34:40 2026 +0000 - 3507c40 - github-actions - Automatic version bump from GitHub Action at: Fri May 29 08:34:40 UTC 2026 v0.1.190

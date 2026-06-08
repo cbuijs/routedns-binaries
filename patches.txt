@@ -1,8 +1,8 @@
-go version go1.26.3
+go version go1.26.4
 
 Modifications:
 
-RouteDNS version/tag: v0.1.191
+RouteDNS version/tag: v0.1.196
 
 - Use "ReusePort: true" on dns-listener
 
