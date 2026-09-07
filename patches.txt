@@ -1,4 +1,4 @@
-go version go1.27.0
+go version go1.27.1
 
 Modifications:
 
